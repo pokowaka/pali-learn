@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Saṃyuttanikāya (ṭīkā)">
+  <tree src="Samyuttanikaya (tika)/Sagathavagga-tika.toc.xml" title="Sagāthāvagga-ṭīkā"/>
+  <tree src="Samyuttanikaya (tika)/Nidanavagga-tika.toc.xml" title="Nidānavagga-ṭīkā"/>
+  <tree src="Samyuttanikaya (tika)/Khandhavagga-tika.toc.xml" title="Khandhavagga-ṭīkā"/>
+  <tree src="Samyuttanikaya (tika)/Salayatanavagga-tika.toc.xml" title="Saḷāyatanavagga-ṭīkā"/>
+  <tree src="Samyuttanikaya (tika)/Mahavagga-tika.toc.xml" title="Mahāvagga-ṭīkā"/>
+</tree>

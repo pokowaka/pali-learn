@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Saṅgāyana-puccha vissajjanā">
+  <tree src="Sangayana-puccha vissajjana/Dighanikaya (pu-vi).toc.xml" title="Dīghanikāya (pu-vi)"/>
+  <tree src="Sangayana-puccha vissajjana/Majjhimanikaya (pu-vi).toc.xml" title="Majjhimanikāya (pu-vi)"/>
+  <tree src="Sangayana-puccha vissajjana/Samyuttanikaya (pu-vi).toc.xml" title="Saṃyuttanikāya (pu-vi)"/>
+  <tree src="Sangayana-puccha vissajjana/Anguttaranikaya (pu-vi).toc.xml" title="Aṅguttaranikāya (pu-vi)"/>
+  <tree src="Sangayana-puccha vissajjana/Vinayapitaka (pu-vi).toc.xml" title="Vinayapiṭaka (pu-vi)"/>
+  <tree src="Sangayana-puccha vissajjana/Abhidhammapitaka (pu-vi).toc.xml" title="Abhidhammapiṭaka (pu-vi)"/>
+  <tree src="Sangayana-puccha vissajjana/Atthakatha (pu-vi).toc.xml" title="Aṭṭhakathā (pu-vi)"/>
+</tree>

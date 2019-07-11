@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Cūḷaniddesapāḷi">
+  <tree src="Culaniddesapali/Parayanavaggo.xml" title="Pārāyanavaggo"/>
+  <tree src="Culaniddesapali/Parayanavagganiddeso.xml" title="Pārāyanavagganiddeso"/>
+  <tree src="Culaniddesapali/Khaggavisanasutto.xml" title="Khaggavisāṇasutto"/>
+</tree>

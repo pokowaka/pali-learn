@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Dhammapada-aṭṭhakathā">
+  <tree src="Dhammapada-atthakatha/Gantharambhakatha.xml" title="Ganthārambhakathā"/>
+  <tree src="Dhammapada-atthakatha/1. Yamakavaggo.xml" title="1. Yamakavaggo"/>
+  <tree src="Dhammapada-atthakatha/2. Appamadavaggo.xml" title="2. Appamādavaggo"/>
+  <tree src="Dhammapada-atthakatha/3. Cittavaggo.xml" title="3. Cittavaggo"/>
+  <tree src="Dhammapada-atthakatha/4. Pupphavaggo.xml" title="4. Pupphavaggo"/>
+  <tree src="Dhammapada-atthakatha/5. Balavaggo.xml" title="5. Bālavaggo"/>
+  <tree src="Dhammapada-atthakatha/6. Panditavaggo.xml" title="6. Paṇḍitavaggo"/>
+  <tree src="Dhammapada-atthakatha/7. Arahantavaggo.xml" title="7. Arahantavaggo"/>
+  <tree src="Dhammapada-atthakatha/8. Sahassavaggo.xml" title="8. Sahassavaggo"/>
+  <tree src="Dhammapada-atthakatha/9. Papavaggo.xml" title="9. Pāpavaggo"/>
+  <tree src="Dhammapada-atthakatha/10. Dandavaggo.xml" title="10. Daṇḍavaggo"/>
+  <tree src="Dhammapada-atthakatha/11. Jaravaggo.xml" title="11. Jarāvaggo"/>
+  <tree src="Dhammapada-atthakatha/12. Attavaggo.xml" title="12. Attavaggo"/>
+  <tree src="Dhammapada-atthakatha/13. Lokavaggo.xml" title="13. Lokavaggo"/>
+  <tree src="Dhammapada-atthakatha/14. Buddhavaggo.xml" title="14. Buddhavaggo"/>
+  <tree src="Dhammapada-atthakatha/15. Sukhavaggo.xml" title="15. Sukhavaggo"/>
+  <tree src="Dhammapada-atthakatha/16. Piyavaggo.xml" title="16. Piyavaggo"/>
+  <tree src="Dhammapada-atthakatha/17. Kodhavaggo.xml" title="17. Kodhavaggo"/>
+  <tree src="Dhammapada-atthakatha/18. Malavaggo.xml" title="18. Malavaggo"/>
+  <tree src="Dhammapada-atthakatha/19. Dhammatthavaggo.xml" title="19. Dhammaṭṭhavaggo"/>
+  <tree src="Dhammapada-atthakatha/20. Maggavaggo.xml" title="20. Maggavaggo"/>
+  <tree src="Dhammapada-atthakatha/21. Pakinnakavaggo.xml" title="21. Pakiṇṇakavaggo"/>
+  <tree src="Dhammapada-atthakatha/22. Nirayavaggo.xml" title="22. Nirayavaggo"/>
+  <tree src="Dhammapada-atthakatha/23. Nagavaggo.xml" title="23. Nāgavaggo"/>
+  <tree src="Dhammapada-atthakatha/24. Tanhavaggo.xml" title="24. Taṇhāvaggo"/>
+  <tree src="Dhammapada-atthakatha/25. Bhikkhuvaggo.xml" title="25. Bhikkhuvaggo"/>
+  <tree src="Dhammapada-atthakatha/26. Brahmanavaggo.xml" title="26. Brāhmaṇavaggo"/>
+</tree>

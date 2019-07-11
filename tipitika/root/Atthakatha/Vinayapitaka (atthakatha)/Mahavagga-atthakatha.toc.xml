@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Mahāvagga-aṭṭhakathā">
+  <tree src="Mahavagga-atthakatha/1. Mahakhandhakam.xml" title="1. Mahākhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/2. Uposathakkhandhakam.xml" title="2. Uposathakkhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/3. Vassupanayikakkhandhakam.xml" title="3. Vassūpanāyikakkhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/4. Pavaranakkhandhakam.xml" title="4. Pavāraṇākkhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/5. Cammakkhandhakam.xml" title="5. Cammakkhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/6. Bhesajjakkhandhakam.xml" title="6. Bhesajjakkhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/7. Kathinakkhandhakam.xml" title="7. Kathinakkhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/8. Civarakkhandhakam.xml" title="8. Cīvarakkhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/9. Campeyyakkhandhakam.xml" title="9. Campeyyakkhandhakaṃ"/>
+  <tree src="Mahavagga-atthakatha/10. Kosambakakkhandhakam.xml" title="10. Kosambakakkhandhakaṃ"/>
+</tree>

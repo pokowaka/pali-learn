@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Kavidappaṇanīti">
+  <tree src="Kavidappananiti/Matika.xml" title="Mātikā"/>
+  <tree src="Kavidappananiti/Ratanattayapanama.xml" title="Ratanattayapaṇāma"/>
+  <tree src="Kavidappananiti/Panditakanda.xml" title="Paṇḍitakaṇḍa"/>
+  <tree src="Kavidappananiti/Sujanakanda.xml" title="Sujanakaṇḍa"/>
+  <tree src="Kavidappananiti/Baladujjanakanda.xml" title="Bāladujjanakaṇḍa"/>
+  <tree src="Kavidappananiti/Rajakanda.xml" title="Rājakaṇḍa"/>
+  <tree src="Kavidappananiti/Nayaka kanda.xml" title="Nāyaka kaṇḍa"/>
+  <tree src="Kavidappananiti/Puttakanda.xml" title="Puttakaṇḍa"/>
+  <tree src="Kavidappananiti/Vejjacariya kanda.xml" title="Vejjācariya kaṇḍa"/>
+  <tree src="Kavidappananiti/Dasaka kanda.xml" title="Dāsaka kaṇḍa"/>
+  <tree src="Kavidappananiti/Itthikanda.xml" title="Itthikaṇḍa"/>
+  <tree src="Kavidappananiti/Pakinnakakanda.xml" title="Pakiṇṇakakaṇḍa"/>
+  <tree src="Kavidappananiti/Kavidappananiti.xml" title="Kavidappaṇanīti"/>
+  <tree src="Kavidappananiti/Panama patinna.xml" title="Paṇāma paṭiññā"/>
+</tree>

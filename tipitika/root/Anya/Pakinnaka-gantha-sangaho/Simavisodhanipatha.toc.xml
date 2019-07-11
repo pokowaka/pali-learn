@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Sīmavisodhanīpāṭha">
+  <tree src="Simavisodhanipatha/Simavisodhani.xml" title="Sīmavisodhanī"/>
+  <tree src="Simavisodhanipatha/1. Upasampadakando.xml" title="1. Upasampadākaṇḍo"/>
+  <tree src="Simavisodhanipatha/2. Kappavinasakando.xml" title="2. Kappavināsakaṇḍo"/>
+  <tree src="Simavisodhanipatha/3. Nibbanakando.xml" title="3. Nibbānakaṇḍo"/>
+  <tree src="Simavisodhanipatha/4. Samasisikando.xml" title="4. Samasīsikaṇḍo"/>
+  <tree src="Simavisodhanipatha/Pakinnakakando.xml" title="Pakiṇṇakakaṇḍo"/>
+</tree>

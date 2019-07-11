@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Pārājikakaṇḍa-aṭṭhakathā">
+  <tree src="Parajikakanda-atthakatha/Gantharambhakatha.xml" title="Ganthārambhakathā"/>
+  <tree src="Parajikakanda-atthakatha/Veranjakandavannana.xml" title="Verañjakaṇḍavaṇṇanā"/>
+  <tree src="Parajikakanda-atthakatha/1. Parajikakandam.xml" title="1. Pārājikakaṇḍaṃ"/>
+  <tree src="Parajikakanda-atthakatha/2. Sanghadisesakandam.xml" title="2. Saṅghādisesakaṇḍaṃ"/>
+  <tree src="Parajikakanda-atthakatha/3. Aniyatakandam.xml" title="3. Aniyatakaṇḍaṃ"/>
+  <tree src="Parajikakanda-atthakatha/4. Nissaggiyakandam.xml" title="4. Nissaggiyakaṇḍaṃ"/>
+</tree>

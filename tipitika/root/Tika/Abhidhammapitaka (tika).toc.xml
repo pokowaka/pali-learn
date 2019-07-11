@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Abhidhammapiṭaka (ṭīkā)">
+  <tree src="Abhidhammapitaka (tika)/Dhammasangani-mulatika.toc.xml" title="Dhammasaṅgaṇī-mūlaṭīkā"/>
+  <tree src="Abhidhammapitaka (tika)/Vibhanga-mulatika.toc.xml" title="Vibhaṅga-mūlaṭīkā"/>
+  <tree src="Abhidhammapitaka (tika)/Pancapakarana-mulatika.toc.xml" title="Pañcapakaraṇa-mūlaṭīkā"/>
+  <tree src="Abhidhammapitaka (tika)/Dhammasangani-anutika.toc.xml" title="Dhammasaṅgaṇī-anuṭīkā"/>
+  <tree src="Abhidhammapitaka (tika)/Pancapakarana-anutika.toc.xml" title="Pañcapakaraṇa-anuṭīkā"/>
+  <tree src="Abhidhammapitaka (tika)/Abhidhammavataro-namarupaparicchedo.toc.xml" title="Abhidhammāvatāro-nāmarūpaparicchedo"/>
+  <tree src="Abhidhammapitaka (tika)/Abhidhammatthasangaho.toc.xml" title="Abhidhammatthasaṅgaho"/>
+  <tree src="Abhidhammapitaka (tika)/Abhidhammavatara-puranatika.toc.xml" title="Abhidhammāvatāra-purāṇaṭīkā"/>
+  <tree src="Abhidhammapitaka (tika)/Abhidhammamatikapali.toc.xml" title="Abhidhammamātikāpāḷi"/>
+</tree>

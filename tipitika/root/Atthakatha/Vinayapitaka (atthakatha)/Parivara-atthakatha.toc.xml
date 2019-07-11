@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Parivāra-aṭṭhakathā">
+  <tree src="Parivara-atthakatha/Solasamahavaro.xml" title="Soḷasamahāvāro"/>
+  <tree src="Parivara-atthakatha/Samutthanasisavannana.xml" title="Samuṭṭhānasīsavaṇṇanā"/>
+  <tree src="Parivara-atthakatha/Antarapeyyalam.xml" title="Antarapeyyālaṃ"/>
+  <tree src="Parivara-atthakatha/Khandhakapucchavaro.xml" title="Khandhakapucchāvāro"/>
+  <tree src="Parivara-atthakatha/Ekuttarikanayo.xml" title="Ekuttarikanayo"/>
+  <tree src="Parivara-atthakatha/Uposathadipucchavissajjana.xml" title="Uposathādipucchāvissajjanā"/>
+  <tree src="Parivara-atthakatha/Pathamagathasanganikam.xml" title="Paṭhamagāthāsaṅgaṇikaṃ"/>
+  <tree src="Parivara-atthakatha/Adhikaranabhedam.xml" title="Adhikaraṇabhedaṃ"/>
+  <tree src="Parivara-atthakatha/Dutiyagathasanganikam.xml" title="Dutiyagāthāsaṅgaṇikaṃ"/>
+  <tree src="Parivara-atthakatha/Codanakandam.xml" title="Codanākaṇḍaṃ"/>
+  <tree src="Parivara-atthakatha/Culasangamo.xml" title="Cūḷasaṅgāmo"/>
+  <tree src="Parivara-atthakatha/Mahasangamo.xml" title="Mahāsaṅgāmo"/>
+  <tree src="Parivara-atthakatha/Kathinabhedam.xml" title="Kathinabhedaṃ"/>
+  <tree src="Parivara-atthakatha/Upalipancakam.xml" title="Upālipañcakaṃ"/>
+  <tree src="Parivara-atthakatha/Apattisamutthanavannana.xml" title="Āpattisamuṭṭhānavaṇṇanā"/>
+  <tree src="Parivara-atthakatha/Aparadutiyagathasanganikam.xml" title="Aparadutiyagāthāsaṅgaṇikaṃ"/>
+  <tree src="Parivara-atthakatha/Sedamocanagatha.xml" title="Sedamocanagāthā"/>
+  <tree src="Parivara-atthakatha/Pancavaggo.xml" title="Pañcavaggo"/>
+</tree>

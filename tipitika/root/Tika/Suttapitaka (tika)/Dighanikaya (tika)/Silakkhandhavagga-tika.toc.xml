@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Sīlakkhandhavagga-ṭīkā">
+  <tree src="Silakkhandhavagga-tika/Gantharambhakathavannana.xml" title="Ganthārambhakathāvaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/1. Brahmajalasuttavannana.xml" title="1. Brahmajālasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/2. Samannaphalasuttavannana.xml" title="2. Sāmaññaphalasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/3. Ambatthasuttavannana.xml" title="3. Ambaṭṭhasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/4. Sonadandasuttavannana.xml" title="4. Soṇadaṇḍasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/5. Kutadantasuttavannana.xml" title="5. Kūṭadantasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/6. Mahalisuttavannana.xml" title="6. Mahālisuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/7. Jaliyasuttavannana.xml" title="7. Jāliyasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/8. Mahasihanadasuttavannana.xml" title="8. Mahāsīhanādasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/9. Potthapadasuttavannana.xml" title="9. Poṭṭhapādasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/10. Subhasuttavannana.xml" title="10. Subhasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/11. Kevattasuttavannana.xml" title="11. Kevaṭṭasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/12. Lohiccasuttavannana.xml" title="12. Lohiccasuttavaṇṇanā"/>
+  <tree src="Silakkhandhavagga-tika/13. Tevijjasuttavannana.xml" title="13. Tevijjasuttavaṇṇanā"/>
+</tree>

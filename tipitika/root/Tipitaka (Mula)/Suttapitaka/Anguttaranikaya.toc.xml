@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Aṅguttaranikāya">
+  <tree src="Anguttaranikaya/Ekakanipatapali.toc.xml" title="Ekakanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Dukanipatapali.toc.xml" title="Dukanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Tikanipatapali.toc.xml" title="Tikanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Catukkanipatapali.toc.xml" title="Catukkanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Pancakanipatapali.toc.xml" title="Pañcakanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Chakkanipatapali.toc.xml" title="Chakkanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Sattakanipatapali.toc.xml" title="Sattakanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Atthakadinipatapali.toc.xml" title="Aṭṭhakādinipātapāḷi"/>
+  <tree src="Anguttaranikaya/Navakanipatapali.toc.xml" title="Navakanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Dasakanipatapali.toc.xml" title="Dasakanipātapāḷi"/>
+  <tree src="Anguttaranikaya/Ekadasakanipatapali.toc.xml" title="Ekādasakanipātapāḷi"/>
+</tree>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Vibhaṅgapāḷi">
+  <tree src="Vibhangapali/1. Khandhavibhango.xml" title="1. Khandhavibhaṅgo"/>
+  <tree src="Vibhangapali/2. Ayatanavibhango.xml" title="2. Āyatanavibhaṅgo"/>
+  <tree src="Vibhangapali/3. Dhatuvibhango.xml" title="3. Dhātuvibhaṅgo"/>
+  <tree src="Vibhangapali/4. Saccavibhango.xml" title="4. Saccavibhaṅgo"/>
+  <tree src="Vibhangapali/5. Indriyavibhango.xml" title="5. Indriyavibhaṅgo"/>
+  <tree src="Vibhangapali/6. Paticcasamuppadavibhango.xml" title="6. Paṭiccasamuppādavibhaṅgo"/>
+  <tree src="Vibhangapali/7. Satipatthanavibhango.xml" title="7. Satipaṭṭhānavibhaṅgo"/>
+  <tree src="Vibhangapali/8. Sammappadhanavibhango.xml" title="8. Sammappadhānavibhaṅgo"/>
+  <tree src="Vibhangapali/9. Iddhipadavibhango.xml" title="9. Iddhipādavibhaṅgo"/>
+  <tree src="Vibhangapali/10. Bojjhangavibhango.xml" title="10. Bojjhaṅgavibhaṅgo"/>
+  <tree src="Vibhangapali/11. Maggangavibhango.xml" title="11. Maggaṅgavibhaṅgo"/>
+  <tree src="Vibhangapali/12. Jhanavibhango.xml" title="12. Jhānavibhaṅgo"/>
+  <tree src="Vibhangapali/13. Appamannavibhango.xml" title="13. Appamaññāvibhaṅgo"/>
+  <tree src="Vibhangapali/14. Sikkhapadavibhango.xml" title="14. Sikkhāpadavibhaṅgo"/>
+  <tree src="Vibhangapali/15. Patisambhidavibhango.xml" title="15. Paṭisambhidāvibhaṅgo"/>
+  <tree src="Vibhangapali/16. Nanavibhango.xml" title="16. Ñāṇavibhaṅgo"/>
+  <tree src="Vibhangapali/17. Khuddakavatthuvibhango.xml" title="17. Khuddakavatthuvibhaṅgo"/>
+  <tree src="Vibhangapali/18. Dhammahadayavibhango.xml" title="18. Dhammahadayavibhaṅgo"/>
+</tree>

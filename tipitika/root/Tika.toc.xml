@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Tīkā">
+  <tree src="Tika/Vinayapitaka (tika).toc.xml" title="Vinayapiṭaka (ṭīkā)"/>
+  <tree src="Tika/Suttapitaka (tika).toc.xml" title="Suttapiṭaka (ṭīkā)"/>
+  <tree src="Tika/Abhidhammapitaka (tika).toc.xml" title="Abhidhammapiṭaka (ṭīkā)"/>
+</tree>

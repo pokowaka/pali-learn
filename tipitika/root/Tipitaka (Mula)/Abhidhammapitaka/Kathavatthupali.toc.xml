@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Kathāvatthupāḷi">
+  <tree src="Kathavatthupali/1. Puggalakatha.xml" title="1. Puggalakathā"/>
+  <tree src="Kathavatthupali/2. Parihanikatha.xml" title="2. Parihānikathā"/>
+  <tree src="Kathavatthupali/3. Brahmacariyakatha.xml" title="3. Brahmacariyakathā"/>
+  <tree src="Kathavatthupali/4. Jahatikatha.xml" title="4. Jahatikathā"/>
+  <tree src="Kathavatthupali/5. Sabbamatthitikatha.xml" title="5. Sabbamatthītikathā"/>
+  <tree src="Kathavatthupali/6. Atitakkhandhadikatha.xml" title="6. Atītakkhandhādikathā"/>
+  <tree src="Kathavatthupali/7. Ekaccam atthitikatha.xml" title="7. Ekaccaṃ atthītikathā"/>
+  <tree src="Kathavatthupali/8. Satipatthanakatha.xml" title="8. Satipaṭṭhānakathā"/>
+  <tree src="Kathavatthupali/9. Hevatthikatha.xml" title="9. Hevatthikathā"/>
+  <tree src="Kathavatthupali/2. Dutiyavaggo.xml" title="2. Dutiyavaggo"/>
+  <tree src="Kathavatthupali/3. Tatiyavaggo.xml" title="3. Tatiyavaggo"/>
+  <tree src="Kathavatthupali/4. Catutthavaggo.xml" title="4. Catutthavaggo"/>
+  <tree src="Kathavatthupali/5. Pancamavaggo.xml" title="5. Pañcamavaggo"/>
+  <tree src="Kathavatthupali/6. Chatthavaggo.xml" title="6. Chaṭṭhavaggo"/>
+  <tree src="Kathavatthupali/7. Sattamavaggo.xml" title="7. Sattamavaggo"/>
+  <tree src="Kathavatthupali/8. Atthamavaggo.xml" title="8. Aṭṭhamavaggo"/>
+  <tree src="Kathavatthupali/9. Navamavaggo.xml" title="9. Navamavaggo"/>
+  <tree src="Kathavatthupali/10. Dasamavaggo.xml" title="10. Dasamavaggo"/>
+  <tree src="Kathavatthupali/11. Ekadasamavaggo.xml" title="11. Ekādasamavaggo"/>
+  <tree src="Kathavatthupali/12. Dvadasamavaggo.xml" title="12. Dvādasamavaggo"/>
+  <tree src="Kathavatthupali/13. Terasamavaggo.xml" title="13. Terasamavaggo"/>
+  <tree src="Kathavatthupali/14. Cuddasamavaggo.xml" title="14. Cuddasamavaggo"/>
+  <tree src="Kathavatthupali/15. Pannarasamavaggo.xml" title="15. Pannarasamavaggo"/>
+  <tree src="Kathavatthupali/16. Solasamavaggo.xml" title="16. Soḷasamavaggo"/>
+  <tree src="Kathavatthupali/17. Sattarasamavaggo.xml" title="17. Sattarasamavaggo"/>
+  <tree src="Kathavatthupali/18. Attharasamavaggo.xml" title="18. Aṭṭhārasamavaggo"/>
+  <tree src="Kathavatthupali/19. Ekunavisatimavaggo.xml" title="19. Ekūnavīsatimavaggo"/>
+  <tree src="Kathavatthupali/20. Visatimavaggo.xml" title="20. Vīsatimavaggo"/>
+  <tree src="Kathavatthupali/21. Ekavisatimavaggo.xml" title="21. Ekavīsatimavaggo"/>
+  <tree src="Kathavatthupali/22. Bavisatimavaggo.xml" title="22. Bāvīsatimavaggo"/>
+  <tree src="Kathavatthupali/23. Tevisatimavaggo.xml" title="23. Tevīsatimavaggo"/>
+</tree>

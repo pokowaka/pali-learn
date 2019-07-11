@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Milindapañhapāḷi">
+  <tree src="Milindapanhapali/Milindapanhapali.xml" title="Milindapañhapāḷi"/>
+  <tree src="Milindapanhapali/2-3. Milindapanho.xml" title="2-3. Milindapañho"/>
+  <tree src="Milindapanhapali/4. Mendakapanho.xml" title="4. Meṇḍakapañho"/>
+  <tree src="Milindapanhapali/5. Anumanapanho.xml" title="5. Anumānapañho"/>
+  <tree src="Milindapanhapali/6. Opammakathapanho.xml" title="6. Opammakathāpañho"/>
+</tree>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Abhidhammatthasaṅgaho">
+  <tree src="Abhidhammatthasangaho/1. Cittaparicchedo.xml" title="1. Cittaparicchedo"/>
+  <tree src="Abhidhammatthasangaho/2. Cetasikaparicchedo.xml" title="2. Cetasikaparicchedo"/>
+  <tree src="Abhidhammatthasangaho/3. Pakinnakaparicchedo.xml" title="3. Pakiṇṇakaparicchedo"/>
+  <tree src="Abhidhammatthasangaho/4. Vithiparicchedo.xml" title="4. Vīthiparicchedo"/>
+  <tree src="Abhidhammatthasangaho/5. Vithimuttaparicchedo.xml" title="5. Vīthimuttaparicchedo"/>
+  <tree src="Abhidhammatthasangaho/6. Rupaparicchedo.xml" title="6. Rūpaparicchedo"/>
+  <tree src="Abhidhammatthasangaho/7. Samuccayaparicchedo.xml" title="7. Samuccayaparicchedo"/>
+  <tree src="Abhidhammatthasangaho/8. Paccayaparicchedo.xml" title="8. Paccayaparicchedo"/>
+  <tree src="Abhidhammatthasangaho/9. Kammatthanaparicchedo.xml" title="9. Kammaṭṭhānaparicchedo"/>
+  <tree src="Abhidhammatthasangaho/1. Cittaparicchedavannana.xml" title="1. Cittaparicchedavaṇṇanā"/>
+  <tree src="Abhidhammatthasangaho/2. Cetasikaparicchedavannana.xml" title="2. Cetasikaparicchedavaṇṇanā"/>
+  <tree src="Abhidhammatthasangaho/3. Pakinnakaparicchedavannana.xml" title="3. Pakiṇṇakaparicchedavaṇṇanā"/>
+  <tree src="Abhidhammatthasangaho/4. Vithiparicchedavannana.xml" title="4. Vīthiparicchedavaṇṇanā"/>
+  <tree src="Abhidhammatthasangaho/5. Vithimuttaparicchedavannana.xml" title="5. Vīthimuttaparicchedavaṇṇanā"/>
+  <tree src="Abhidhammatthasangaho/6. Rupaparicchedavannana.xml" title="6. Rūpaparicchedavaṇṇanā"/>
+  <tree src="Abhidhammatthasangaho/7. Samuccayaparicchedavannana.xml" title="7. Samuccayaparicchedavaṇṇanā"/>
+  <tree src="Abhidhammatthasangaho/8. Paccayaparicchedavannana.xml" title="8. Paccayaparicchedavaṇṇanā"/>
+  <tree src="Abhidhammatthasangaho/9. Kammatthanaparicchedavannana.xml" title="9. Kammaṭṭhānaparicchedavaṇṇanā"/>
+</tree>

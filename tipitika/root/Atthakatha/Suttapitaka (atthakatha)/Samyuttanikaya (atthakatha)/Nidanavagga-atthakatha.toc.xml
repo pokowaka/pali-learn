@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Nidānavagga-aṭṭhakathā">
+  <tree src="Nidanavagga-atthakatha/1. Nidanasamyuttam.xml" title="1. Nidānasaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/2. Abhisamayasamyuttam.xml" title="2. Abhisamayasaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/3. Dhatusamyuttam.xml" title="3. Dhātusaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/4. Anamataggasamyuttam.xml" title="4. Anamataggasaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/5. Kassapasamyuttam.xml" title="5. Kassapasaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/6. Labhasakkarasamyuttam.xml" title="6. Lābhasakkārasaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/7. Rahulasamyuttam.xml" title="7. Rāhulasaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/8. Lakkhanasamyuttam.xml" title="8. Lakkhaṇasaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/9. Opammasamyuttam.xml" title="9. Opammasaṃyuttaṃ"/>
+  <tree src="Nidanavagga-atthakatha/10. Bhikkhusamyuttam.xml" title="10. Bhikkhusaṃyuttaṃ"/>
+</tree>

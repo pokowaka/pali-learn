@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Abhidhammapiṭaka">
+  <tree src="Abhidhammapitaka/Dhammasanganipali.toc.xml" title="Dhammasaṅgaṇīpāḷi"/>
+  <tree src="Abhidhammapitaka/Vibhangapali.toc.xml" title="Vibhaṅgapāḷi"/>
+  <tree src="Abhidhammapitaka/Dhatukathapali.toc.xml" title="Dhātukathāpāḷi"/>
+  <tree src="Abhidhammapitaka/Puggalapannattipali.toc.xml" title="Puggalapaññattipāḷi"/>
+  <tree src="Abhidhammapitaka/Kathavatthupali.toc.xml" title="Kathāvatthupāḷi"/>
+  <tree src="Abhidhammapitaka/Yamakapali-1.toc.xml" title="Yamakapāḷi-1"/>
+  <tree src="Abhidhammapitaka/Yamakapali-2.toc.xml" title="Yamakapāḷi-2"/>
+  <tree src="Abhidhammapitaka/Yamakapali-3.toc.xml" title="Yamakapāḷi-3"/>
+  <tree src="Abhidhammapitaka/Patthanapali-1.toc.xml" title="Paṭṭhānapāḷi-1"/>
+  <tree src="Abhidhammapitaka/Patthanapali-2.toc.xml" title="Paṭṭhānapāḷi-2"/>
+  <tree src="Abhidhammapitaka/Patthanapali-3.toc.xml" title="Paṭṭhānapāḷi-3"/>
+  <tree src="Abhidhammapitaka/Patthanapali-4.toc.xml" title="Paṭṭhānapāḷi-4"/>
+  <tree src="Abhidhammapitaka/Patthanapali-5.toc.xml" title="Paṭṭhānapāḷi-5"/>
+</tree>

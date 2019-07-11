@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Padarūpasiddhi">
+  <tree src="Padarupasiddhi/1. Sandhikanda.xml" title="1. Sandhikaṇḍa"/>
+  <tree src="Padarupasiddhi/2. Namakanda.xml" title="2. Nāmakaṇḍa"/>
+  <tree src="Padarupasiddhi/3. Karakakanda.xml" title="3. Kārakakaṇḍa"/>
+  <tree src="Padarupasiddhi/4. Samasakanda.xml" title="4. Samāsakaṇḍa"/>
+  <tree src="Padarupasiddhi/5. Taddhitakanda.xml" title="5. Taddhitakaṇḍa"/>
+  <tree src="Padarupasiddhi/6. Akhyatakanda.xml" title="6. Ākhyātakaṇḍa"/>
+  <tree src="Padarupasiddhi/7. Kibbidhanakanda.xml" title="7. Kibbidhānakaṇḍa"/>
+</tree>

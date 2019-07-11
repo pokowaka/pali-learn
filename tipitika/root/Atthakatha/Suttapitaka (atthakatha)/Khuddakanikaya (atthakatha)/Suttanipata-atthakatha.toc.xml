@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Suttanipāta-aṭṭhakathā">
+  <tree src="Suttanipata-atthakatha/1. Uragavaggo.xml" title="1. Uragavaggo"/>
+  <tree src="Suttanipata-atthakatha/2. Culavaggo.xml" title="2. Cūḷavaggo"/>
+  <tree src="Suttanipata-atthakatha/3. Mahavaggo.xml" title="3. Mahāvaggo"/>
+  <tree src="Suttanipata-atthakatha/4. Atthakavaggo.xml" title="4. Aṭṭhakavaggo"/>
+  <tree src="Suttanipata-atthakatha/5. Parayanavaggo.xml" title="5. Pārāyanavaggo"/>
+</tree>

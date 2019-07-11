@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Vinayapiṭaka (aṭṭhakathā)">
+  <tree src="Vinayapitaka (atthakatha)/Parajikakanda-atthakatha.toc.xml" title="Pārājikakaṇḍa-aṭṭhakathā"/>
+  <tree src="Vinayapitaka (atthakatha)/Pacittiya-atthakatha.toc.xml" title="Pācittiya-aṭṭhakathā"/>
+  <tree src="Vinayapitaka (atthakatha)/Mahavagga-atthakatha.toc.xml" title="Mahāvagga-aṭṭhakathā"/>
+  <tree src="Vinayapitaka (atthakatha)/Culavagga-atthakatha.toc.xml" title="Cūḷavagga-aṭṭhakathā"/>
+  <tree src="Vinayapitaka (atthakatha)/Parivara-atthakatha.toc.xml" title="Parivāra-aṭṭhakathā"/>
+</tree>

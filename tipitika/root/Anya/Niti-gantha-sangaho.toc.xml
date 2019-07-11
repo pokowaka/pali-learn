@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Nīti-gantha-saṅgaho">
+  <tree src="Niti-gantha-sangaho/Lokaniti.toc.xml" title="Lokanīti"/>
+  <tree src="Niti-gantha-sangaho/Suttantaniti.toc.xml" title="Suttantanīti"/>
+  <tree src="Niti-gantha-sangaho/Surassatiniti.toc.xml" title="Sūrassatinīti"/>
+  <tree src="Niti-gantha-sangaho/Maharahaniti.toc.xml" title="Mahārahanīti"/>
+  <tree src="Niti-gantha-sangaho/Dhammaniti.toc.xml" title="Dhammanīti"/>
+  <tree src="Niti-gantha-sangaho/Kavidappananiti.toc.xml" title="Kavidappaṇanīti"/>
+  <tree src="Niti-gantha-sangaho/Nitimanjari.toc.xml" title="Nītimañjarī"/>
+  <tree src="Niti-gantha-sangaho/Naradakkhadipani.toc.xml" title="Naradakkhadīpanī"/>
+  <tree src="Niti-gantha-sangaho/Caturarakkhadipani.toc.xml" title="Caturārakkhadīpanī"/>
+  <tree src="Niti-gantha-sangaho/Canakyaniti.toc.xml" title="Cāṇakyanīti"/>
+</tree>

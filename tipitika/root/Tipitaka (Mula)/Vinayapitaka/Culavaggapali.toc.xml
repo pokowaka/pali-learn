@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Cūḷavaggapāḷi">
+  <tree src="Culavaggapali/1. Kammakkhandhakam.xml" title="1. Kammakkhandhakaṃ"/>
+  <tree src="Culavaggapali/2. Parivasikakkhandhakam.xml" title="2. Pārivāsikakkhandhakaṃ"/>
+  <tree src="Culavaggapali/3. Samuccayakkhandhakam.xml" title="3. Samuccayakkhandhakaṃ"/>
+  <tree src="Culavaggapali/4. Samathakkhandhakam.xml" title="4. Samathakkhandhakaṃ"/>
+  <tree src="Culavaggapali/5. Khuddakavatthukkhandhakam.xml" title="5. Khuddakavatthukkhandhakaṃ"/>
+  <tree src="Culavaggapali/6. Senasanakkhandhakam.xml" title="6. Senāsanakkhandhakaṃ"/>
+  <tree src="Culavaggapali/7. Sanghabhedakakkhandhakam.xml" title="7. Saṅghabhedakakkhandhakaṃ"/>
+  <tree src="Culavaggapali/8. Vattakkhandhakam.xml" title="8. Vattakkhandhakaṃ"/>
+  <tree src="Culavaggapali/9. Patimokkhatthapanakkhandhakam.xml" title="9. Pātimokkhaṭṭhapanakkhandhakaṃ"/>
+  <tree src="Culavaggapali/10. Bhikkhunikkhandhakam.xml" title="10. Bhikkhunikkhandhakaṃ"/>
+  <tree src="Culavaggapali/11. Pancasatikakkhandhakam.xml" title="11. Pañcasatikakkhandhakaṃ"/>
+  <tree src="Culavaggapali/12. Sattasatikakkhandhakam.xml" title="12. Sattasatikakkhandhakaṃ"/>
+</tree>

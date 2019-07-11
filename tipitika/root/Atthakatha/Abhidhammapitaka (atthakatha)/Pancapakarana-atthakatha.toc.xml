@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Pañcapakaraṇa-aṭṭhakathā">
+  <tree src="Pancapakarana-atthakatha/Dhatukatha-atthakatha.xml" title="Dhātukathā-aṭṭhakathā"/>
+  <tree src="Pancapakarana-atthakatha/1. Matikavannana.xml" title="1. Mātikāvaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/2. Niddesavannana.xml" title="2. Niddesavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/Puggalapannatti-atthakatha.xml" title="Puggalapaññatti-aṭṭhakathā"/>
+  <tree src="Pancapakarana-atthakatha/1. Matikavannana.xml" title="1. Mātikāvaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/2. Niddesavannana.xml" title="2. Niddesavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/Kathavatthu-atthakatha.xml" title="Kathāvatthu-aṭṭhakathā"/>
+  <tree src="Pancapakarana-atthakatha/Nidanakatha.xml" title="Nidānakathā"/>
+  <tree src="Pancapakarana-atthakatha/1. Puggalakatha.xml" title="1. Puggalakathā"/>
+  <tree src="Pancapakarana-atthakatha/2. Parihanikatha.xml" title="2. Parihānikathā"/>
+  <tree src="Pancapakarana-atthakatha/3. Brahmacariyakatha.xml" title="3. Brahmacariyakathā"/>
+  <tree src="Pancapakarana-atthakatha/4. Jahatikatha.xml" title="4. Jahatikathā"/>
+  <tree src="Pancapakarana-atthakatha/5. Sabbamatthitikatha.xml" title="5. Sabbamatthītikathā"/>
+  <tree src="Pancapakarana-atthakatha/6. Atitakkhandhadikatha.xml" title="6. Atītakkhandhādikathā"/>
+  <tree src="Pancapakarana-atthakatha/7. Ekaccamatthitikatha.xml" title="7. Ekaccaṃatthītikathā"/>
+  <tree src="Pancapakarana-atthakatha/8. Satipatthanakathavannana.xml" title="8. Satipaṭṭhānakathāvaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/9. Hevatthikathavannana.xml" title="9. Hevatthikathāvaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/2. Dutiyavaggo.xml" title="2. Dutiyavaggo"/>
+  <tree src="Pancapakarana-atthakatha/3. Tatiyavaggo.xml" title="3. Tatiyavaggo"/>
+  <tree src="Pancapakarana-atthakatha/4. Catutthavaggo.xml" title="4. Catutthavaggo"/>
+  <tree src="Pancapakarana-atthakatha/5. Pancamavaggo.xml" title="5. Pañcamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/6. Chatthavaggo.xml" title="6. Chaṭṭhavaggo"/>
+  <tree src="Pancapakarana-atthakatha/7. Sattamavaggo.xml" title="7. Sattamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/8. Atthamavaggo.xml" title="8. Aṭṭhamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/9. Navamavaggo.xml" title="9. Navamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/10. Dasamavaggo.xml" title="10. Dasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/11. Ekadasamavaggo.xml" title="11. Ekādasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/12. Dvadasamavaggo.xml" title="12. Dvādasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/13. Terasamavaggo.xml" title="13. Terasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/14. Cuddasamavaggo.xml" title="14. Cuddasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/15. Pannarasamavaggo.xml" title="15. Pannarasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/16. Solasamavaggo.xml" title="16. Soḷasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/17. Sattarasamavaggo.xml" title="17. Sattarasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/18. Attharasamavaggo.xml" title="18. Aṭṭhārasamavaggo"/>
+  <tree src="Pancapakarana-atthakatha/19. Ekunavisatimavaggo.xml" title="19. Ekūnavīsatimavaggo"/>
+  <tree src="Pancapakarana-atthakatha/20. Visatimavaggo.xml" title="20. Vīsatimavaggo"/>
+  <tree src="Pancapakarana-atthakatha/21. Ekavisatimavaggo.xml" title="21. Ekavīsatimavaggo"/>
+  <tree src="Pancapakarana-atthakatha/22. Bavisatimavaggo.xml" title="22. Bāvīsatimavaggo"/>
+  <tree src="Pancapakarana-atthakatha/23. Tevisatimavaggo.xml" title="23. Tevīsatimavaggo"/>
+  <tree src="Pancapakarana-atthakatha/Yamakappakarana-atthakatha.xml" title="Yamakappakaraṇa-aṭṭhakathā"/>
+  <tree src="Pancapakarana-atthakatha/1. Mulayamakam.xml" title="1. Mūlayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/2. Khandhayamakam.xml" title="2. Khandhayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/3. Ayatanayamakam.xml" title="3. Āyatanayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/4. Dhatuyamakam.xml" title="4. Dhātuyamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/5. Saccayamakam.xml" title="5. Saccayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/6. Sankharayamakam.xml" title="6. Saṅkhārayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/7. Anusayayamakam.xml" title="7. Anusayayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/8. Cittayamakam.xml" title="8. Cittayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/9. Dhammayamakam.xml" title="9. Dhammayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/10. Indriyayamakam.xml" title="10. Indriyayamakaṃ"/>
+  <tree src="Pancapakarana-atthakatha/Patthanappakarana-atthakatha.xml" title="Paṭṭhānappakaraṇa-aṭṭhakathā"/>
+  <tree src="Pancapakarana-atthakatha/Paccayuddesavannana.xml" title="Paccayuddesavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/Paccayaniddeso.xml" title="Paccayaniddeso"/>
+  <tree src="Pancapakarana-atthakatha/1. Kusalattikavannana.xml" title="1. Kusalattikavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/2. Vedanattikavannana.xml" title="2. Vedanāttikavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/3. Vipakattikavannana.xml" title="3. Vipākattikavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/4. Upadinnattikavannana.xml" title="4. Upādinnattikavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/5-22. Sankilitthattikadivannana.xml" title="5-22. Saṅkiliṭṭhattikādivaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/2. Dukapatthanavannana.xml" title="2. Dukapaṭṭhānavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/3. Dukatikapatthanavannana.xml" title="3. Dukatikapaṭṭhānavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/4. Tikadukapatthanavannana.xml" title="4. Tikadukapaṭṭhānavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/5. Tikatikapatthanavannana.xml" title="5. Tikatikapaṭṭhānavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/6. Dukadukapatthanavannana.xml" title="6. Dukadukapaṭṭhānavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/7-12. Paccaniyapatthanavannana.xml" title="7-12. Paccanīyapaṭṭhānavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/13-18. Anulomapaccaniyapatthanavannana.xml" title="13-18. Anulomapaccanīyapaṭṭhānavaṇṇanā"/>
+  <tree src="Pancapakarana-atthakatha/19-24. Paccaniyanulomapatthanavannana.xml" title="19-24. Paccanīyānulomapaṭṭhānavaṇṇanā"/>
+</tree>

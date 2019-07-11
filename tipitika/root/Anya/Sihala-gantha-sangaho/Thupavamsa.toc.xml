@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Thūpavaṃsa">
+  <tree src="Thupavamsa/Thupavamso .xml" title="Thupavaṃso "/>
+  <tree src="Thupavamsa/Abhinihara katha.xml" title="Abhinīhāra kathā"/>
+  <tree src="Thupavamsa/Culamanidussa thupadvayakatha.xml" title="Cūḷāmaṇidussa thupadvayakathā"/>
+  <tree src="Thupavamsa/Dasathupakatha.xml" title="Dasathūpakathā"/>
+  <tree src="Thupavamsa/Dhatunidhana katha.xml" title="Dhātunidhāna kathā"/>
+  <tree src="Thupavamsa/Caturasiti sahassa thupakatha.xml" title="Caturāsīti sahassa thūpakathā"/>
+  <tree src="Thupavamsa/Bodhi agamanakatha.xml" title="Bodhi āgamanakathā"/>
+  <tree src="Thupavamsa/Yojanathupa katha.xml" title="Yojanathūpa kathā"/>
+  <tree src="Thupavamsa/Tadatthadipanattham ayamanupubbakatha.xml" title="Tadatthadīpanatthaṃ ayamanupubbakathā"/>
+  <tree src="Thupavamsa/Mahiyangana thupakatha.xml" title="Mahiyaṅgana thūpakathā"/>
+  <tree src="Thupavamsa/Maricavatti viharakatha.xml" title="Marīcavaṭṭi vihārakathā"/>
+  <tree src="Thupavamsa/Thupasadhana labhakatha.xml" title="Thūpasādhana lābhakathā"/>
+  <tree src="Thupavamsa/Thuparamha katha.xml" title="Thūpāramha kathā"/>
+  <tree src="Thupavamsa/Dhatugabba rupavannanakatha.xml" title="Dhātugabba rūpavaṇṇanākathā"/>
+</tree>

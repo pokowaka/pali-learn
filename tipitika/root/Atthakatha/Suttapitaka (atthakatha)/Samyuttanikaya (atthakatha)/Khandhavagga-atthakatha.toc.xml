@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Khandhavagga-aṭṭhakathā">
+  <tree src="Khandhavagga-atthakatha/1. Khandhasamyuttam.xml" title="1. Khandhasaṃyuttaṃ"/>
+  <tree src="Khandhavagga-atthakatha/2. Radhasamyuttam.xml" title="2. Rādhasaṃyuttaṃ"/>
+  <tree src="Khandhavagga-atthakatha/3. Ditthisamyuttam.xml" title="3. Diṭṭhisaṃyuttaṃ"/>
+  <tree src="Khandhavagga-atthakatha/4. Okkantasamyuttam.xml" title="4. Okkantasaṃyuttaṃ"/>
+  <tree src="Khandhavagga-atthakatha/5. Uppadasamyuttavannana.xml" title="5. Uppādasaṃyuttavaṇṇanā"/>
+  <tree src="Khandhavagga-atthakatha/6. Kilesasamyuttavannana.xml" title="6. Kilesasaṃyuttavaṇṇanā"/>
+  <tree src="Khandhavagga-atthakatha/7. Sariputtasamyuttam.xml" title="7. Sāriputtasaṃyuttaṃ"/>
+  <tree src="Khandhavagga-atthakatha/8. Nagasamyuttam.xml" title="8. Nāgasaṃyuttaṃ"/>
+  <tree src="Khandhavagga-atthakatha/9. Supannasamyuttavannana.xml" title="9. Supaṇṇasaṃyuttavaṇṇanā"/>
+  <tree src="Khandhavagga-atthakatha/10. Gandhabbakayasamyuttavannana.xml" title="10. Gandhabbakāyasaṃyuttavaṇṇanā"/>
+  <tree src="Khandhavagga-atthakatha/11. Valahakasamyuttavannana.xml" title="11. Valāhakasaṃyuttavaṇṇanā"/>
+  <tree src="Khandhavagga-atthakatha/12. Vacchagottasamyuttavannana.xml" title="12. Vacchagottasaṃyuttavaṇṇanā"/>
+  <tree src="Khandhavagga-atthakatha/13. Jhanasamyuttam.xml" title="13. Jhānasaṃyuttaṃ"/>
+</tree>

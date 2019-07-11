@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Khuddasikkhā-mūlasikkhā">
+  <tree src="Khuddasikkha-mulasikkha/Khuddasikkha.xml" title="Khuddasikkhā"/>
+  <tree src="Khuddasikkha-mulasikkha/Khuddasikkha-puranatika.xml" title="Khuddasikkhā-purāṇaṭīkā"/>
+  <tree src="Khuddasikkha-mulasikkha/Khuddasikkha-abhinavatika.xml" title="Khuddasikkhā-abhinavaṭīkā"/>
+  <tree src="Khuddasikkha-mulasikkha/Mulasikkha.xml" title="Mūlasikkhā"/>
+  <tree src="Khuddasikkha-mulasikkha/Mulasikkha-tika.xml" title="Mūlasikkhā-ṭīkā"/>
+</tree>

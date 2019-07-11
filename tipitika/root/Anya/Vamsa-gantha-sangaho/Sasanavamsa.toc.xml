@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Sāsanavaṃsa">
+  <tree src="Sasanavamsa/Sasanavamsappadipika.xml" title="Sāsanavaṃsappadīpikā"/>
+  <tree src="Sasanavamsa/1. Navatthanagatasasanavamsakathamaggo.xml" title="1. Navaṭṭhānāgatasāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/2. Sihaladipikasasanavamsakathamaggo.xml" title="2. Sīhaḷadīpikasāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/3. Suvannabhumisasanavamsakathamaggo.xml" title="3. Suvaṇṇabhūmisāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/4. Yonakaratthasasanavamsakathamaggo.xml" title="4. Yonakaraṭṭhasāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/5. Navavasiratthasasanavamsakathamaggo.xml" title="5. Navavāsīraṭṭhasāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/6. Aparantaratthasasanavamsakathamaggo.xml" title="6. Aparantaraṭṭhasāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/7. Kasmiragandhararatthasasanavamsakathamaggo.xml" title="7. Kasmiragandhāraraṭṭhasāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/8. Mahimsakaratthassasanavamsakathamaggo.xml" title="8. Mahiṃsakaraṭṭhassāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/9. Maharatthasasanavamsakathamaggo.xml" title="9. Mahāraṭṭhasāsanavaṃsakathāmaggo"/>
+  <tree src="Sasanavamsa/10. Cinaratthasasanavamsakathamaggo.xml" title="10. Cinaraṭṭhasāsanavaṃsakathāmaggo"/>
+</tree>

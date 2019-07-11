@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Jinālaṅkāra">
+  <tree src="Jinalankara/Panamadipanigatha.xml" title="Paṇāmadīpanīgāthā"/>
+  <tree src="Jinalankara/Yogavacarasampattidipanigatha.xml" title="Yogāvacarasampattidīpanīgāthā"/>
+  <tree src="Jinalankara/Vatthuvisodhanigatha.xml" title="Vatthuvisodhanīgāthā"/>
+  <tree src="Jinalankara/Anannasadharanadipanigatha.xml" title="Anaññasādhāraṇadīpanīgāthā"/>
+  <tree src="Jinalankara/Abhiniharadipanigatha.xml" title="Abhinīhāradīpanīgāthā"/>
+  <tree src="Jinalankara/Bodhisambharadipanigatha.xml" title="Bodhisambhāradīpanīgāthā"/>
+  <tree src="Jinalankara/Gabbhokkantidipanigatha.xml" title="Gabbhokkantidīpanīgāthā"/>
+  <tree src="Jinalankara/Vijayanamangaladipanigatha.xml" title="Vijāyanamaṅgaladīpanīgāthā"/>
+  <tree src="Jinalankara/Agariyasampattidipanigatha.xml" title="Agāriyasampattidīpanīgāthā"/>
+  <tree src="Jinalankara/Nekkhammajjhasayadipaniyamakagatha.xml" title="Nekkhammajjhāsayadīpanīyamakagāthā"/>
+  <tree src="Jinalankara/Paduddharavimhayadipanigatha.xml" title="Pāduddhāravimhayadīpanīgāthā"/>
+  <tree src="Jinalankara/Apunaravattigamanadipaniyamakagatha.xml" title="Apunarāvattigamanadīpanīyamakagāthā"/>
+  <tree src="Jinalankara/Dvipadabyasayamakagatha.xml" title="Dvipādabyāsayamakagāthā"/>
+  <tree src="Jinalankara/Tipadabyasayamakagatha.xml" title="Tipādabyāsayamakagāthā"/>
+  <tree src="Jinalankara/Padabyasamahayamakagatha.xml" title="Pādabyāsamahāyamakagāthā"/>
+  <tree src="Jinalankara/Abyapetadyantayamakagatha.xml" title="Abyāpetādyantayamakagāthā"/>
+  <tree src="Jinalankara/Patilomayamakagatha.xml" title="Paṭilomayamakagāthā"/>
+  <tree src="Jinalankara/Ekathanikadiyamakagatha.xml" title="Ekaṭhānikādiyamakagāthā"/>
+  <tree src="Jinalankara/Akkharuttarikayamakagatha.xml" title="Akkharuttarikayamakagāthā"/>
+  <tree src="Jinalankara/Paheligatha.xml" title="Paheḷigāthā"/>
+  <tree src="Jinalankara/Byapetadiyamakagatha.xml" title="Byāpetādiyamakagāthā"/>
+  <tree src="Jinalankara/Mahapadhanadipanigatha.xml" title="Mahāpadhānadīpanīgāthā"/>
+  <tree src="Jinalankara/Maraparajayadipanigatha.xml" title="Māraparājayadīpanīgāthā"/>
+  <tree src="Jinalankara/Abhisambodhidipanigatha.xml" title="Abhisambodhidīpanīgāthā"/>
+  <tree src="Jinalankara/Dhammacakkapavattanadipanigatha.xml" title="Dhammacakkapavattanadīpanīgāthā"/>
+  <tree src="Jinalankara/Patihariyadipanigatha.xml" title="Pāṭihāriyadīpanīgāthā"/>
+  <tree src="Jinalankara/Navagunadipanigatha.xml" title="Navaguṇadīpanīgāthā"/>
+  <tree src="Jinalankara/Gunadipanigatha.xml" title="Guṇadīpanīgāthā"/>
+  <tree src="Jinalankara/Pujanidhanadipanigatha.xml" title="Pūjānidhānadīpanīgāthā"/>
+  <tree src="Jinalankara/Patthanadipanigatha.xml" title="Patthanādīpanīgāthā"/>
+</tree>

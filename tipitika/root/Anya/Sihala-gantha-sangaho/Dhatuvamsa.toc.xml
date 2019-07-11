@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Dhātuvaṃsa">
+  <tree src="Dhatuvamsa/1. Tathagatassagamanakatha.xml" title="1. Tathāgatassāgamanakathā"/>
+  <tree src="Dhatuvamsa/2. Parinibbanakatha.xml" title="2. Parinibbānakathā"/>
+  <tree src="Dhatuvamsa/3. Dhatuparamparakatha.xml" title="3. Dhātuparamparākathā"/>
+  <tree src="Dhatuvamsa/4. Pakinnakakatha.xml" title="4. Pakiṇṇakakathā"/>
+  <tree src="Dhatuvamsa/5. Dhatunidhanadhikaro.xml" title="5. Dhātunidhānādhikāro"/>
+</tree>

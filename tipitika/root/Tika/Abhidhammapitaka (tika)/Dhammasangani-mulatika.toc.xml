@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Dhammasaṅgaṇī-mūlaṭīkā">
+  <tree src="Dhammasangani-mulatika/Visatigathavannana.xml" title="Vīsatigāthāvaṇṇanā"/>
+  <tree src="Dhammasangani-mulatika/1. Cittuppadakandam.xml" title="1. Cittuppādakaṇḍaṃ"/>
+  <tree src="Dhammasangani-mulatika/Tikamatikapadavannana.xml" title="Tikamātikāpadavaṇṇanā"/>
+  <tree src="Dhammasangani-mulatika/Dukamatikapadavannana.xml" title="Dukamātikāpadavaṇṇanā"/>
+  <tree src="Dhammasangani-mulatika/Kamavacarakusalapadabhajaniyavannana.xml" title="Kāmāvacarakusalapadabhājanīyavaṇṇanā"/>
+  <tree src="Dhammasangani-mulatika/Kamavacarakusalam.xml" title="Kāmāvacarakusalaṃ"/>
+  <tree src="Dhammasangani-mulatika/2. Rupakandam.xml" title="2. Rūpakaṇḍaṃ"/>
+  <tree src="Dhammasangani-mulatika/3. Nikkhepakandam.xml" title="3. Nikkhepakaṇḍaṃ"/>
+  <tree src="Dhammasangani-mulatika/4. Atthakathakandam.xml" title="4. Aṭṭhakathākaṇḍaṃ"/>
+</tree>

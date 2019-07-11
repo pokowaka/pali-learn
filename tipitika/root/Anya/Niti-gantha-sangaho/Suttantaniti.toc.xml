@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Suttantanīti">
+  <tree src="Suttantaniti/Suttantaniti.xml" title="Suttantanīti"/>
+  <tree src="Suttantaniti/Vasalasutta.xml" title="Vasalasutta"/>
+</tree>

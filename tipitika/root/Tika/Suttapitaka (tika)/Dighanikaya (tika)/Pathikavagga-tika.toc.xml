@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Pāthikavagga-ṭīkā">
+  <tree src="Pathikavagga-tika/1. Pathikasuttavannana.xml" title="1. Pāthikasuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/2. Udumbarikasuttavannana.xml" title="2. Udumbarikasuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/3. Cakkavattisuttavannana.xml" title="3. Cakkavattisuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/4. Aggannasuttavannana.xml" title="4. Aggaññasuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/5. Sampasadaniyasuttavannana.xml" title="5. Sampasādanīyasuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/6. Pasadikasuttavannana.xml" title="6. Pāsādikasuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/7. Lakkhanasuttavannana.xml" title="7. Lakkhaṇasuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/8. Singalasuttavannana.xml" title="8. Siṅgālasuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/9. Atanatiyasuttavannana.xml" title="9. Āṭānāṭiyasuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/10. Sangitisuttavannana.xml" title="10. Saṅgītisuttavaṇṇanā"/>
+  <tree src="Pathikavagga-tika/11. Dasuttarasuttavannana.xml" title="11. Dasuttarasuttavaṇṇanā"/>
+</tree>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Khandhavaggapāḷi">
+  <tree src="Khandhavaggapali/1. Khandhasamyuttam.xml" title="1. Khandhasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/2. Radhasamyuttam.xml" title="2. Rādhasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/3. Ditthisamyuttam.xml" title="3. Diṭṭhisaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/4. Okkantasamyuttam.xml" title="4. Okkantasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/5. Uppadasamyuttam.xml" title="5. Uppādasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/6. Kilesasamyuttam.xml" title="6. Kilesasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/7. Sariputtasamyuttam.xml" title="7. Sāriputtasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/8. Nagasamyuttam.xml" title="8. Nāgasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/9. Supannasamyuttam.xml" title="9. Supaṇṇasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/10. Gandhabbakayasamyuttam.xml" title="10. Gandhabbakāyasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/11. Valahakasamyuttam.xml" title="11. Valāhakasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/12. Vacchagottasamyuttam.xml" title="12. Vacchagottasaṃyuttaṃ"/>
+  <tree src="Khandhavaggapali/13. Jhanasamyuttam.xml" title="13. Jhānasaṃyuttaṃ"/>
+</tree>

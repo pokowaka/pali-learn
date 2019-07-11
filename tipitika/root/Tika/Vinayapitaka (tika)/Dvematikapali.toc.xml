@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Dvemātikāpāḷi">
+  <tree src="Dvematikapali/Bhikkhupatimokkhapali.xml" title="Bhikkhupātimokkhapāḷi"/>
+  <tree src="Dvematikapali/Bhikkhunipatimokkhapali.xml" title="Bhikkhunīpātimokkhapāḷi"/>
+  <tree src="Dvematikapali/Kankhavitarani-atthakatha.xml" title="Kaṅkhāvitaraṇī-aṭṭhakathā"/>
+  <tree src="Dvematikapali/Nidanavannana.xml" title="Nidānavaṇṇanā"/>
+  <tree src="Dvematikapali/Parajikakando.xml" title="Pārājikakaṇḍo"/>
+  <tree src="Dvematikapali/Sanghadisesakando.xml" title="Saṅghādisesakaṇḍo"/>
+  <tree src="Dvematikapali/Aniyatakando.xml" title="Aniyatakaṇḍo"/>
+  <tree src="Dvematikapali/Nissaggiyakando.xml" title="Nissaggiyakaṇḍo"/>
+  <tree src="Dvematikapali/Pacittiyakando.xml" title="Pācittiyakaṇḍo"/>
+  <tree src="Dvematikapali/Patidesaniyakando.xml" title="Pāṭidesanīyakaṇḍo"/>
+  <tree src="Dvematikapali/Sekhiyakando.xml" title="Sekhiyakaṇḍo"/>
+  <tree src="Dvematikapali/Bhikkhunipatimokkhavannana.xml" title="Bhikkhunīpātimokkhavaṇṇanā"/>
+  <tree src="Dvematikapali/Parajikakando.xml" title="Pārājikakaṇḍo"/>
+  <tree src="Dvematikapali/Sanghadisesakando.xml" title="Saṅghādisesakaṇḍo"/>
+  <tree src="Dvematikapali/Nissaggiyakando.xml" title="Nissaggiyakaṇḍo"/>
+  <tree src="Dvematikapali/Pacittiyakando.xml" title="Pācittiyakaṇḍo"/>
+  <tree src="Dvematikapali/Patidesaniyakando.xml" title="Pāṭidesanīyakaṇḍo"/>
+</tree>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Mūlapaṇṇāsapāḷi">
+  <tree src="Mulapannasapali/1. Mulapariyayavaggo.xml" title="1. Mūlapariyāyavaggo"/>
+  <tree src="Mulapannasapali/2. Sihanadavaggo.xml" title="2. Sīhanādavaggo"/>
+  <tree src="Mulapannasapali/3. Opammavaggo.xml" title="3. Opammavaggo"/>
+  <tree src="Mulapannasapali/4. Mahayamakavaggo.xml" title="4. Mahāyamakavaggo"/>
+  <tree src="Mulapannasapali/5. Culayamakavaggo.xml" title="5. Cūḷayamakavaggo"/>
+</tree>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Aṭṭhakathā">
+  <tree src="Atthakatha/Vinayapitaka (atthakatha).toc.xml" title="Vinayapiṭaka (aṭṭhakathā)"/>
+  <tree src="Atthakatha/Suttapitaka (atthakatha).toc.xml" title="Suttapiṭaka (aṭṭhakathā)"/>
+  <tree src="Atthakatha/Abhidhammapitaka (atthakatha).toc.xml" title="Abhidhammapiṭaka (aṭṭhakathā)"/>
+</tree>

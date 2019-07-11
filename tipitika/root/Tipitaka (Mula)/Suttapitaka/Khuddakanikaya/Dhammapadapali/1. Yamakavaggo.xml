@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree text="1. Yamakavaggo" target="text">
+  <text>
+    <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <hangnum nr="1"/>
+    <gatha type="1"> Manopubbaṅgamā  dhammā, manoseṭṭhā manomayā;</gatha>
+    <gatha type="2">Manasā ce paduṭṭhena, bhāsati vā karoti vā;</gatha>
+    <gatha type="last">Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.</gatha>
+    <hangnum nr="2"/>
+    <gatha type="1"> Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;</gatha>
+    <gatha type="2">Manasā ce pasannena, bhāsati vā karoti vā;</gatha>
+    <gatha type="last">Tato naṃ sukhamanveti, chāyāva anapāyinī <note>[anupāyinī (ka.)]</note>.</gatha>
+    <hangnum nr="3"/>
+    <gatha type="1"> Akkocchi  maṃ avadhi maṃ, ajini <note>[ajinī (?)]</note> maṃ ahāsi me;</gatha>
+    <gatha type="last">Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.</gatha>
+    <hangnum nr="4"/>
+    <gatha type="1"> Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;</gatha>
+    <gatha type="last">Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.</gatha>
+    <hangnum nr="5"/>
+    <gatha type="1"> Na  hi verena verāni, sammantīdha kudācanaṃ;</gatha>
+    <gatha type="last">Averena ca sammanti, esa dhammo sanantano.</gatha>
+    <hangnum nr="6"/>
+    <gatha type="1"> Pare  ca na vijānanti, mayamettha yamāmase;</gatha>
+    <gatha type="last">Ye ca tattha vijānanti, tato sammanti medhagā.</gatha>
+    <hangnum nr="7"/>
+    <gatha type="1"> Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ;</gatha>
+    <gatha type="2">Bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ;</gatha>
+    <gatha type="last">Taṃ ve pasahati māro, vāto rukkhaṃva dubbalaṃ.</gatha>
+    <hangnum nr="8"/>
+    <gatha type="1"> Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ;</gatha>
+    <gatha type="2">Bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ;</gatha>
+    <gatha type="last">Taṃ ve nappasahati māro, vāto selaṃva pabbataṃ.</gatha>
+    <hangnum nr="9"/>
+    <gatha type="1"> Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati;</gatha>
+    <gatha type="last">Apeto damasaccena, na so kāsāvamarahati.</gatha>
+    <hangnum nr="10"/>
+    <gatha type="1"> Yo ca vantakasāvassa, sīlesu susamāhito;</gatha>
+    <gatha type="last">Upeto damasaccena, sa ve kāsāvamarahati.</gatha>
+    <hangnum nr="11"/>
+    <gatha type="1"> Asāre sāramatino, sāre cāsāradassino;</gatha>
+    <gatha type="last">Te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.</gatha>
+    <hangnum nr="12"/>
+    <gatha type="1"> Sārañca  sārato ñatvā, asārañca asārato;</gatha>
+    <gatha type="last">Te sāraṃ adhigacchanti, sammāsaṅkappagocarā.</gatha>
+    <hangnum nr="13"/>
+    <gatha type="1"> Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati;</gatha>
+    <gatha type="last">Evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.</gatha>
+    <hangnum nr="14"/>
+    <gatha type="1"> Yathā  agāraṃ suchannaṃ, vuṭṭhī na samativijjhati;</gatha>
+    <gatha type="last">Evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.</gatha>
+    <hangnum nr="15"/>
+    <gatha type="1"> Idha  socati pecca socati, pāpakārī ubhayattha socati;</gatha>
+    <gatha type="last">So socati so vihaññati, disvā kammakiliṭṭhamattano.</gatha>
+    <hangnum nr="16"/>
+    <gatha type="1"> Idha modati pecca modati, katapuñño ubhayattha modati;</gatha>
+    <gatha type="last">So modati so pamodati, disvā kammavisuddhimattano.</gatha>
+    <hangnum nr="17"/>
+    <gatha type="1"> Idha tappati pecca tappati, pāpakārī <note>[pāpakāri (?)]</note> ubhayattha tappati;</gatha>
+    <gatha type="last">‘‘Pāpaṃ me kata’’nti tappati, bhiyyo <note>[bhīyo (sī.)]</note> tappati duggatiṃ gato.</gatha>
+    <hangnum nr="18"/>
+    <gatha type="1"> Idha nandati pecca nandati, katapuñño ubhayattha nandati;</gatha>
+    <gatha type="last">‘‘Puññaṃ me kata’’nti nandati, bhiyyo nandati suggatiṃ gato.</gatha>
+    <hangnum nr="19"/>
+    <gatha type="1"> Bahumpi ce saṃhita <note>[sahitaṃ (sī. syā. kaṃ. pī.)]</note> bhāsamāno, na takkaro hoti naro pamatto;</gatha>
+    <gatha type="last">Gopova  gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.</gatha>
+    <hangnum nr="20"/>
+    <gatha type="1"> Appampi ce saṃhita bhāsamāno, dhammassa hoti <note>[hotī (sī. pī.)]</note> anudhammacārī;</gatha>
+    <gatha type="2">Rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto;</gatha>
+    <gatha type="last">Anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.</gatha>
+    <centered>Yamakavaggo paṭhamo niṭṭhito.</centered>
+  </text>
+</tree>

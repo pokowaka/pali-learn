@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Navakanipātapāḷi">
+  <tree src="Navakanipatapali/1. Sambodhivaggo.xml" title="1. Sambodhivaggo"/>
+  <tree src="Navakanipatapali/2. Sihanadavaggo.xml" title="2. Sīhanādavaggo"/>
+  <tree src="Navakanipatapali/3. Sattavasavaggo.xml" title="3. Sattāvāsavaggo"/>
+  <tree src="Navakanipatapali/4. Mahavaggo.xml" title="4. Mahāvaggo"/>
+  <tree src="Navakanipatapali/5. Samannavaggo.xml" title="5. Sāmaññavaggo"/>
+  <tree src="Navakanipatapali/(6) 1. Khemavaggo.xml" title="(6) 1. Khemavaggo"/>
+  <tree src="Navakanipatapali/(7) 2. Satipatthanavaggo.xml" title="(7) 2. Satipaṭṭhānavaggo"/>
+  <tree src="Navakanipatapali/(8) 3. Sammappadhanavaggo.xml" title="(8) 3. Sammappadhānavaggo"/>
+  <tree src="Navakanipatapali/(9) 4. Iddhipadavaggo.xml" title="(9) 4. Iddhipādavaggo"/>
+  <tree src="Navakanipatapali/(10) 5. Ragapeyyalam.xml" title="(10) 5. Rāgapeyyālaṃ"/>
+</tree>

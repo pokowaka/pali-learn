@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree text="1. Sara&#x1E47;attaya&#x1E43;" target="text">
+  <text>
+    <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <gatha type="1">Buddhaṃ  saraṇaṃ gacchāmi;</gatha>
+    <gatha type="2">Dhammaṃ saraṇaṃ gacchāmi;</gatha>
+    <gatha type="last">Saṅghaṃ saraṇaṃ gacchāmi.</gatha>
+    <gatha type="1">Dutiyampi buddhaṃ saraṇaṃ gacchāmi;</gatha>
+    <gatha type="2">Dutiyampi dhammaṃ saraṇaṃ gacchāmi;</gatha>
+    <gatha type="last">Dutiyampi saṅghaṃ saraṇaṃ gacchāmi.</gatha>
+    <gatha type="1">Tatiyampi  buddhaṃ saraṇaṃ gacchāmi;</gatha>
+    <gatha type="2">Tatiyampi dhammaṃ saraṇaṃ gacchāmi;</gatha>
+    <gatha type="last">Tatiyampi saṅghaṃ saraṇaṃ gacchāmi.</gatha>
+    <centered>Saraṇattayaṃ <note>[saraṇagamanaṃ niṭṭhitaṃ (syā.)]</note> niṭṭhitaṃ.</centered>
+  </text>
+</tree>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Mahāniddesa-aṭṭhakathā">
+  <tree src="Mahaniddesa-atthakatha/Gantharambhakatha.xml" title="Ganthārambhakathā"/>
+  <tree src="Mahaniddesa-atthakatha/1. Kamasuttaniddesavannana.xml" title="1. Kāmasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/2. Guhatthakasuttaniddesavannana.xml" title="2. Guhaṭṭhakasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/3. Dutthatthakasuttaniddesavannana.xml" title="3. Duṭṭhaṭṭhakasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/4. Suddhatthakasuttaniddesavannana.xml" title="4. Suddhaṭṭhakasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/5. Paramatthakasuttaniddesavannana.xml" title="5. Paramaṭṭhakasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/6. Jarasuttaniddesavannana.xml" title="6. Jarāsuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/7. Tissametteyyasuttaniddesavannana.xml" title="7. Tissametteyyasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/8. Pasurasuttaniddesavannana.xml" title="8. Pasūrasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/9. Magandiyasuttaniddesavannana.xml" title="9. Māgaṇḍiyasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/10. Purabhedasuttaniddesavannana.xml" title="10. Purābhedasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/11. Kalahavivadasuttaniddesavannana.xml" title="11. Kalahavivādasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/12. Culabyuhasuttaniddesavannana.xml" title="12. Cūḷabyūhasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/13. Mahabyuhasuttaniddesavannana.xml" title="13. Mahābyūhasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/14. Tuvatakasuttaniddesavannana.xml" title="14. Tuvaṭakasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/15. Attadandasuttaniddesavannana.xml" title="15. Attadaṇḍasuttaniddesavaṇṇanā"/>
+  <tree src="Mahaniddesa-atthakatha/16. Sariputtasuttaniddesavannana.xml" title="16. Sāriputtasuttaniddesavaṇṇanā"/>
+</tree>

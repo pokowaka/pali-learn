@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Rasavāhinī">
+  <tree src="Rasavahini/Panamadikatha.xml" title="Paṇāmādikathā"/>
+  <tree src="Rasavahini/Dhammasondakavaggo.xml" title="Dhammasoṇḍakavaggo"/>
+  <tree src="Rasavahini/Nandiyarajavaggo.xml" title="Nandiyarājavaggo"/>
+  <tree src="Rasavahini/Yakkhavancitavaggo.xml" title="Yakkhavañcitavaggo"/>
+  <tree src="Rasavahini/Mahasenavaggo.xml" title="Mahāsenavaggo"/>
+</tree>

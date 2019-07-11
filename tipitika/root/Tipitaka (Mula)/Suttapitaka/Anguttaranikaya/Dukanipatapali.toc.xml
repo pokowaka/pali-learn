@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Dukanipātapāḷi">
+  <tree src="Dukanipatapali/1. Kammakaranavaggo.xml" title="1. Kammakaraṇavaggo"/>
+  <tree src="Dukanipatapali/2. Adhikaranavaggo.xml" title="2. Adhikaraṇavaggo"/>
+  <tree src="Dukanipatapali/3. Balavaggo.xml" title="3. Bālavaggo"/>
+  <tree src="Dukanipatapali/4. Samacittavaggo.xml" title="4. Samacittavaggo"/>
+  <tree src="Dukanipatapali/5. Parisavaggo.xml" title="5. Parisavaggo"/>
+  <tree src="Dukanipatapali/(6) 1. Puggalavaggo.xml" title="(6) 1. Puggalavaggo"/>
+  <tree src="Dukanipatapali/(7) 2. Sukhavaggo.xml" title="(7) 2. Sukhavaggo"/>
+  <tree src="Dukanipatapali/(8) 3. Sanimittavaggo.xml" title="(8) 3. Sanimittavaggo"/>
+  <tree src="Dukanipatapali/(9) 4. Dhammavaggo.xml" title="(9) 4. Dhammavaggo"/>
+  <tree src="Dukanipatapali/(10) 5. Balavaggo.xml" title="(10) 5. Bālavaggo"/>
+  <tree src="Dukanipatapali/(11) 1. Asaduppajahavaggo.xml" title="(11) 1. Āsāduppajahavaggo"/>
+  <tree src="Dukanipatapali/(12) 2. Ayacanavaggo.xml" title="(12) 2. Āyācanavaggo"/>
+  <tree src="Dukanipatapali/(13) 3. Danavaggo.xml" title="(13) 3. Dānavaggo"/>
+  <tree src="Dukanipatapali/(14) 4. Santharavaggo.xml" title="(14) 4. Santhāravaggo"/>
+  <tree src="Dukanipatapali/(15) 5. Samapattivaggo.xml" title="(15) 5. Samāpattivaggo"/>
+  <tree src="Dukanipatapali/1. Kodhapeyyalam.xml" title="1. Kodhapeyyālaṃ"/>
+  <tree src="Dukanipatapali/2. Akusalapeyyalam.xml" title="2. Akusalapeyyālaṃ"/>
+  <tree src="Dukanipatapali/3. Vinayapeyyalam.xml" title="3. Vinayapeyyālaṃ"/>
+  <tree src="Dukanipatapali/4. Ragapeyyalam.xml" title="4. Rāgapeyyālaṃ"/>
+</tree>

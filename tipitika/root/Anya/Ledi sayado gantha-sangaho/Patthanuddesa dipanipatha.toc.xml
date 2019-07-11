@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Paṭṭhānuddesa dīpanīpāṭha">
+  <tree src="Patthanuddesa dipanipatha/1. Hetupaccayo.xml" title="1. Hetupaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/2. Arammanapaccayo.xml" title="2. Ārammaṇapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/3. Adhipatipaccayo.xml" title="3. Adhipatipaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/4. Anantarapaccayo.xml" title="4. Anantarapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/5. Samanantarapaccayo.xml" title="5. Samanantarapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/6. Sahajatapaccayo.xml" title="6. Sahajātapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/7. Annamannapaccayo.xml" title="7. Aññamaññapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/8. Nissayapaccayo.xml" title="8. Nissayapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/9. Upanissayapaccayo.xml" title="9. Upanissayapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/10. Purejatapaccayo.xml" title="10. Purejātapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/11. Pacchajatapaccayo.xml" title="11. Pacchājātapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/12. Asevanapaccayo.xml" title="12. Āsevanapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/13. Kammapaccayo.xml" title="13. Kammapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/14. Vipakapaccayo.xml" title="14. Vipākapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/15. Aharapaccayo.xml" title="15. Āhārapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/16. Indriyapaccayo.xml" title="16. Indriyapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/17. Jhanapaccayo.xml" title="17. Jhānapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/18. Maggapaccayo.xml" title="18. Maggapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/19. Sampayuttapaccayo.xml" title="19. Sampayuttapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/20. Vippayuttapaccayo.xml" title="20. Vippayuttapaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/21. Atthipaccayo.xml" title="21. Atthipaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/22. Natthipaccayo.xml" title="22. Natthipaccayo"/>
+  <tree src="Patthanuddesa dipanipatha/Paccayasabhago.xml" title="Paccayasabhāgo"/>
+</tree>

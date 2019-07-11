@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Mahāvagga-ṭīkā">
+  <tree src="Mahavagga-tika/1. Mahapadanasuttavannana.xml" title="1. Mahāpadānasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/2. Mahanidanasuttavannana.xml" title="2. Mahānidānasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/3. Mahaparinibbanasuttavannana.xml" title="3. Mahāparinibbānasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/4. Mahasudassanasuttavannana.xml" title="4. Mahāsudassanasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/5. Janavasabhasuttavannana.xml" title="5. Janavasabhasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/6. Mahagovindasuttavannana.xml" title="6. Mahāgovindasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/7. Mahasamayasuttavannana.xml" title="7. Mahāsamayasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/8. Sakkapanhasuttavannana.xml" title="8. Sakkapañhasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/9. Mahasatipatthanasuttavannana.xml" title="9. Mahāsatipaṭṭhānasuttavaṇṇanā"/>
+  <tree src="Mahavagga-tika/10. Payasirajannasuttavannana.xml" title="10. Pāyāsirājaññasuttavaṇṇanā"/>
+</tree>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Visuddhimagga">
+  <tree src="Visuddhimagga/Visuddhimagga-1.toc.xml" title="Visuddhimagga-1"/>
+  <tree src="Visuddhimagga/Visuddhimagga-2.toc.xml" title="Visuddhimagga-2"/>
+  <tree src="Visuddhimagga/Visuddhimagga-mahatika-1.toc.xml" title="Visuddhimagga-mahāṭīkā-1"/>
+  <tree src="Visuddhimagga/Visuddhimagga-mahatika-2.toc.xml" title="Visuddhimagga-mahāṭīkā-2"/>
+  <tree src="Visuddhimagga/Visuddhimagga nidanakatha.toc.xml" title="Visuddhimagga nidānakathā"/>
+</tree>

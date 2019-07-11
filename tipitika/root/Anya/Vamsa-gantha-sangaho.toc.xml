@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Vaṃsa-gantha-saṅgaho">
+  <tree src="Vamsa-gantha-sangaho/Culaganthavamsa.toc.xml" title="Cūḷaganthavaṃsa"/>
+  <tree src="Vamsa-gantha-sangaho/Mahavamsa.toc.xml" title="Mahāvaṃsa"/>
+  <tree src="Vamsa-gantha-sangaho/Sasanavamsa.toc.xml" title="Sāsanavaṃsa"/>
+</tree>

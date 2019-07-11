@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Sūrassatinīti">
+  <tree src="Surassatiniti/Panamagatha.xml" title="Paṇāmagāthā"/>
+  <tree src="Surassatiniti/Surassatiniti.xml" title="Sūrassatīnīti"/>
+  <tree src="Surassatiniti/Canakyanitila gatha.xml" title="Cāṇakyanītilā gāthā"/>
+</tree>

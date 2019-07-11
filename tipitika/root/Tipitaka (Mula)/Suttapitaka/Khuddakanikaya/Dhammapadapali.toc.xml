@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Dhammapadapāḷi">
+  <tree src="Dhammapadapali/1. Yamakavaggo.xml" title="1. Yamakavaggo"/>
+  <tree src="Dhammapadapali/2. Appamadavaggo.xml" title="2. Appamādavaggo"/>
+  <tree src="Dhammapadapali/3. Cittavaggo.xml" title="3. Cittavaggo"/>
+  <tree src="Dhammapadapali/4. Pupphavaggo.xml" title="4. Pupphavaggo"/>
+  <tree src="Dhammapadapali/5. Balavaggo.xml" title="5. Bālavaggo"/>
+  <tree src="Dhammapadapali/6. Panditavaggo.xml" title="6. Paṇḍitavaggo"/>
+  <tree src="Dhammapadapali/7. Arahantavaggo.xml" title="7. Arahantavaggo"/>
+  <tree src="Dhammapadapali/8. Sahassavaggo.xml" title="8. Sahassavaggo"/>
+  <tree src="Dhammapadapali/9. Papavaggo.xml" title="9. Pāpavaggo"/>
+  <tree src="Dhammapadapali/10. Dandavaggo.xml" title="10. Daṇḍavaggo"/>
+  <tree src="Dhammapadapali/11. Jaravaggo.xml" title="11. Jarāvaggo"/>
+  <tree src="Dhammapadapali/12. Attavaggo.xml" title="12. Attavaggo"/>
+  <tree src="Dhammapadapali/13. Lokavaggo.xml" title="13. Lokavaggo"/>
+  <tree src="Dhammapadapali/14. Buddhavaggo.xml" title="14. Buddhavaggo"/>
+  <tree src="Dhammapadapali/15. Sukhavaggo.xml" title="15. Sukhavaggo"/>
+  <tree src="Dhammapadapali/16. Piyavaggo.xml" title="16. Piyavaggo"/>
+  <tree src="Dhammapadapali/17. Kodhavaggo.xml" title="17. Kodhavaggo"/>
+  <tree src="Dhammapadapali/18. Malavaggo.xml" title="18. Malavaggo"/>
+  <tree src="Dhammapadapali/19. Dhammatthavaggo.xml" title="19. Dhammaṭṭhavaggo"/>
+  <tree src="Dhammapadapali/20. Maggavaggo.xml" title="20. Maggavaggo"/>
+  <tree src="Dhammapadapali/21. Pakinnakavaggo.xml" title="21. Pakiṇṇakavaggo"/>
+  <tree src="Dhammapadapali/22. Nirayavaggo.xml" title="22. Nirayavaggo"/>
+  <tree src="Dhammapadapali/23. Nagavaggo.xml" title="23. Nāgavaggo"/>
+  <tree src="Dhammapadapali/24. Tanhavaggo.xml" title="24. Taṇhāvaggo"/>
+  <tree src="Dhammapadapali/25. Bhikkhuvaggo.xml" title="25. Bhikkhuvaggo"/>
+  <tree src="Dhammapadapali/26. Brahmanavaggo.xml" title="26. Brāhmaṇavaggo"/>
+</tree>

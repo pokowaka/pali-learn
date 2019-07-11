@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Saṃyuttanikāya">
+  <tree src="Samyuttanikaya/Sagathavaggapali.toc.xml" title="Sagāthāvaggapāḷi"/>
+  <tree src="Samyuttanikaya/Nidanavaggapali.toc.xml" title="Nidānavaggapāḷi"/>
+  <tree src="Samyuttanikaya/Khandhavaggapali.toc.xml" title="Khandhavaggapāḷi"/>
+  <tree src="Samyuttanikaya/Salayatanavaggapali.toc.xml" title="Saḷāyatanavaggapāḷi"/>
+  <tree src="Samyuttanikaya/Mahavaggapali.toc.xml" title="Mahāvaggapāḷi"/>
+</tree>

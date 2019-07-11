@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Mogallānapañcikā">
+  <tree src="Mogallanapancika/Moggallana pancika tika.xml" title="Moggallāna pañcikā ṭīkā"/>
+  <tree src="Mogallanapancika/1. Pathamakandavannana.xml" title="1. Paṭhamakaṇḍavaṇṇanā"/>
+  <tree src="Mogallanapancika/2. Dutiyakanda vannana.xml" title="2. Dutiyakaṇḍa vaṇṇanā"/>
+  <tree src="Mogallanapancika/3. Tatiyakandavannana.xml" title="3. Tatiyakaṇḍavaṇṇanā"/>
+  <tree src="Mogallanapancika/Catutthakanda.xml" title="Catutthakaṇḍa"/>
+  <tree src="Mogallanapancika/Pancamakanda.xml" title="Pañcamakaṇḍa"/>
+  <tree src="Mogallanapancika/Chatthakanda.xml" title="Chaṭṭhakaṇḍa"/>
+</tree>

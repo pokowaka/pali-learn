@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Mahāvaggapāḷi">
+  <tree src="Mahavaggapali/1. Mahapadanasuttam.xml" title="1. Mahāpadānasuttaṃ"/>
+  <tree src="Mahavaggapali/2. Mahanidanasuttam.xml" title="2. Mahānidānasuttaṃ"/>
+  <tree src="Mahavaggapali/3. Mahaparinibbanasuttam.xml" title="3. Mahāparinibbānasuttaṃ"/>
+  <tree src="Mahavaggapali/4. Mahasudassanasuttam.xml" title="4. Mahāsudassanasuttaṃ"/>
+  <tree src="Mahavaggapali/5. Janavasabhasuttam.xml" title="5. Janavasabhasuttaṃ"/>
+  <tree src="Mahavaggapali/6. Mahagovindasuttam.xml" title="6. Mahāgovindasuttaṃ"/>
+  <tree src="Mahavaggapali/7. Mahasamayasuttam.xml" title="7. Mahāsamayasuttaṃ"/>
+  <tree src="Mahavaggapali/8. Sakkapanhasuttam.xml" title="8. Sakkapañhasuttaṃ"/>
+  <tree src="Mahavaggapali/9. Mahasatipatthanasuttam.xml" title="9. Mahāsatipaṭṭhānasuttaṃ"/>
+  <tree src="Mahavaggapali/10. Payasisuttam.xml" title="10. Pāyāsisuttaṃ"/>
+</tree>

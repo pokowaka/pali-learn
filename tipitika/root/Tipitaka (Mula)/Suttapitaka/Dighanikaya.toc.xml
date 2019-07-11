@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Dīghanikāya">
+  <tree src="Dighanikaya/Silakkhandhavaggapali.toc.xml" title="Sīlakkhandhavaggapāḷi"/>
+  <tree src="Dighanikaya/Mahavaggapali.toc.xml" title="Mahāvaggapāḷi"/>
+  <tree src="Dighanikaya/Pathikavaggapali.toc.xml" title="Pāthikavaggapāḷi"/>
+</tree>

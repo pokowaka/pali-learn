@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Aṭṭhakādinipātapāḷi">
+  <tree src="Atthakadinipatapali/1. Mettavaggo.xml" title="1. Mettāvaggo"/>
+  <tree src="Atthakadinipatapali/2. Mahavaggo.xml" title="2. Mahāvaggo"/>
+  <tree src="Atthakadinipatapali/3. Gahapativaggo.xml" title="3. Gahapativaggo"/>
+  <tree src="Atthakadinipatapali/4. Danavaggo.xml" title="4. Dānavaggo"/>
+  <tree src="Atthakadinipatapali/5. Uposathavaggo.xml" title="5. Uposathavaggo"/>
+  <tree src="Atthakadinipatapali/(6) 1. Gotamivaggo.xml" title="(6) 1. Gotamīvaggo"/>
+  <tree src="Atthakadinipatapali/(7) 2. Bhumicalavaggo.xml" title="(7) 2. Bhūmicālavaggo"/>
+  <tree src="Atthakadinipatapali/(8) 3. Yamakavaggo.xml" title="(8) 3. Yamakavaggo"/>
+  <tree src="Atthakadinipatapali/(9) 4. Sativaggo.xml" title="(9) 4. Sativaggo"/>
+  <tree src="Atthakadinipatapali/(10) 5. Samannavaggo.xml" title="(10) 5. Sāmaññavaggo"/>
+  <tree src="Atthakadinipatapali/(11). Ragapeyyalam.xml" title="(11). Rāgapeyyālaṃ"/>
+</tree>

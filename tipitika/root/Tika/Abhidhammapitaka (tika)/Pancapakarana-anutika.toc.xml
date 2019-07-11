@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Pañcapakaraṇa-anuṭīkā">
+  <tree src="Pancapakarana-anutika/Dhatukathapakarana-anutika.xml" title="Dhātukathāpakaraṇa-anuṭīkā"/>
+  <tree src="Pancapakarana-anutika/Puggalapannattipakarana-anutika.xml" title="Puggalapaññattipakaraṇa-anuṭīkā"/>
+  <tree src="Pancapakarana-anutika/Kathavatthupakarana-anutika.xml" title="Kathāvatthupakaraṇa-anuṭīkā"/>
+  <tree src="Pancapakarana-anutika/Yamakapakarana-anutika.xml" title="Yamakapakaraṇa-anuṭīkā"/>
+  <tree src="Pancapakarana-anutika/Patthanapakarana-anutika.xml" title="Paṭṭhānapakaraṇa-anuṭīkā"/>
+</tree>

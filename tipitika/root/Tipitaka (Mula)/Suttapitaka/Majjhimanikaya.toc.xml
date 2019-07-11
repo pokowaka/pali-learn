@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Majjhimanikāya">
+  <tree src="Majjhimanikaya/Mulapannasapali.toc.xml" title="Mūlapaṇṇāsapāḷi"/>
+  <tree src="Majjhimanikaya/Majjhimapannasapali.toc.xml" title="Majjhimapaṇṇāsapāḷi"/>
+  <tree src="Majjhimanikaya/Uparipannasapali.toc.xml" title="Uparipaṇṇāsapāḷi"/>
+</tree>

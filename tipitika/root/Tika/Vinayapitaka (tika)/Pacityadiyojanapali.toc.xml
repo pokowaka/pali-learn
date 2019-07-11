@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Pācityādiyojanāpāḷi">
+  <tree src="Pacityadiyojanapali/Pacittiyayojana.xml" title="Pācittiyayojanā"/>
+  <tree src="Pacityadiyojanapali/Bhikkhunivibhango.xml" title="Bhikkhunīvibhaṅgo"/>
+  <tree src="Pacityadiyojanapali/Mahavaggayojana.xml" title="Mahāvaggayojanā"/>
+  <tree src="Pacityadiyojanapali/Culavaggayojana.xml" title="Cūḷavaggayojanā"/>
+  <tree src="Pacityadiyojanapali/Parivaravaggayojana.xml" title="Parivāravaggayojanā"/>
+</tree>

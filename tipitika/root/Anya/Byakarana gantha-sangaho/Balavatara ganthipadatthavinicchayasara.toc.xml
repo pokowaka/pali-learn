@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Bālāvatāra gaṇṭhipadatthavinicchayasāra">
+  <tree src="Balavatara ganthipadatthavinicchayasara/Balavatara.xml" title="Bālāvatāra"/>
+  <tree src="Balavatara ganthipadatthavinicchayasara/1. Sandhi kanda.xml" title="1. Sandhi kaṇḍa"/>
+  <tree src="Balavatara ganthipadatthavinicchayasara/2. Namakanda.xml" title="2. Nāmakaṇḍa"/>
+  <tree src="Balavatara ganthipadatthavinicchayasara/3. Samasakanda.xml" title="3. Samāsakaṇḍa"/>
+  <tree src="Balavatara ganthipadatthavinicchayasara/4. Taddhitakanda.xml" title="4. Taddhitakaṇḍa"/>
+</tree>

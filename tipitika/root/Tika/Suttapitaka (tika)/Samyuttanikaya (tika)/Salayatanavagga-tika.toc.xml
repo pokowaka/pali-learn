@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Saḷāyatanavagga-ṭīkā">
+  <tree src="Salayatanavagga-tika/1. Salayatanasamyuttam.xml" title="1. Saḷāyatanasaṃyuttaṃ"/>
+  <tree src="Salayatanavagga-tika/2. Vedanasamyuttam.xml" title="2. Vedanāsaṃyuttaṃ"/>
+  <tree src="Salayatanavagga-tika/3. Matugamasamyuttam.xml" title="3. Mātugāmasaṃyuttaṃ"/>
+  <tree src="Salayatanavagga-tika/4. Jambukhadakasamyuttam.xml" title="4. Jambukhādakasaṃyuttaṃ"/>
+  <tree src="Salayatanavagga-tika/5. Samandakasamyuttavannana.xml" title="5. Sāmaṇḍakasaṃyuttavaṇṇanā"/>
+  <tree src="Salayatanavagga-tika/6. Moggallanasamyuttam.xml" title="6. Moggallānasaṃyuttaṃ"/>
+  <tree src="Salayatanavagga-tika/7. Cittasamyuttam.xml" title="7. Cittasaṃyuttaṃ"/>
+  <tree src="Salayatanavagga-tika/8. Gamanisamyuttam.xml" title="8. Gāmaṇisaṃyuttaṃ"/>
+  <tree src="Salayatanavagga-tika/9. Asankhatasamyuttam.xml" title="9. Asaṅkhatasaṃyuttaṃ"/>
+  <tree src="Salayatanavagga-tika/10. Abyakatasamyuttam.xml" title="10. Abyākatasaṃyuttaṃ"/>
+</tree>

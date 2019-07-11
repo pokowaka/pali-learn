@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Vimativinodanī-ṭīkā">
+  <tree src="Vimativinodani-tika/Gantharambhakatha.xml" title="Ganthārambhakathā"/>
+  <tree src="Vimativinodani-tika/Veranjakandavannana.xml" title="Verañjakaṇḍavaṇṇanā"/>
+  <tree src="Vimativinodani-tika/1. Parajikakando.xml" title="1. Pārājikakaṇḍo"/>
+  <tree src="Vimativinodani-tika/2. Sanghadisesakando.xml" title="2. Saṅghādisesakaṇḍo"/>
+  <tree src="Vimativinodani-tika/3. Aniyatakando.xml" title="3. Aniyatakaṇḍo"/>
+  <tree src="Vimativinodani-tika/4. Nissaggiyakando.xml" title="4. Nissaggiyakaṇḍo"/>
+  <tree src="Vimativinodani-tika/5. Pacittiyakandam.xml" title="5. Pācittiyakaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/6. Patidesaniyakandam.xml" title="6. Pāṭidesanīyakaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/7. Sekhiyakandam.xml" title="7. Sekhiyakaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/Bhikkhunivibhangavannana.xml" title="Bhikkhunīvibhaṅgavaṇṇanā"/>
+  <tree src="Vimativinodani-tika/1. Parajikakandam.xml" title="1. Pārājikakaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/2. Sanghadisesakandam.xml" title="2. Saṅghādisesakaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/3. Nissaggiyakandam.xml" title="3. Nissaggiyakaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/4. Pacittiyakandam.xml" title="4. Pācittiyakaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/5. Patidesaniyakandam.xml" title="5. Pāṭidesanīyakaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/Mahavaggavannana.xml" title="Mahāvaggavaṇṇanā"/>
+  <tree src="Vimativinodani-tika/1. Mahakhandhako.xml" title="1. Mahākhandhako"/>
+  <tree src="Vimativinodani-tika/2. Uposathakkhandhako.xml" title="2. Uposathakkhandhako"/>
+  <tree src="Vimativinodani-tika/3. Vassupanayikakkhandhako.xml" title="3. Vassūpanāyikakkhandhako"/>
+  <tree src="Vimativinodani-tika/4. Pavaranakkhandhako.xml" title="4. Pavāraṇākkhandhako"/>
+  <tree src="Vimativinodani-tika/5. Cammakkhandhako.xml" title="5. Cammakkhandhako"/>
+  <tree src="Vimativinodani-tika/6. Bhesajjakkhandhako.xml" title="6. Bhesajjakkhandhako"/>
+  <tree src="Vimativinodani-tika/7. Kathinakkhandhako.xml" title="7. Kathinakkhandhako"/>
+  <tree src="Vimativinodani-tika/8. Civarakkhandhako.xml" title="8. Cīvarakkhandhako"/>
+  <tree src="Vimativinodani-tika/9. Campeyyakkhandhako.xml" title="9. Campeyyakkhandhako"/>
+  <tree src="Vimativinodani-tika/10. Kosambakakkhandhako.xml" title="10. Kosambakakkhandhako"/>
+  <tree src="Vimativinodani-tika/Culavaggavannana.xml" title="Cūḷavaggavaṇṇanā"/>
+  <tree src="Vimativinodani-tika/1. Kammakkhandhako.xml" title="1. Kammakkhandhako"/>
+  <tree src="Vimativinodani-tika/2. Parivasikakkhandhako.xml" title="2. Pārivāsikakkhandhako"/>
+  <tree src="Vimativinodani-tika/3. Samuccayakkhandhako.xml" title="3. Samuccayakkhandhako"/>
+  <tree src="Vimativinodani-tika/4. Samathakkhandhako.xml" title="4. Samathakkhandhako"/>
+  <tree src="Vimativinodani-tika/5. Khuddakavatthukkhandhako.xml" title="5. Khuddakavatthukkhandhako"/>
+  <tree src="Vimativinodani-tika/6. Senasanakkhandhako.xml" title="6. Senāsanakkhandhako"/>
+  <tree src="Vimativinodani-tika/7. Sanghabhedakakkhandhako.xml" title="7. Saṅghabhedakakkhandhako"/>
+  <tree src="Vimativinodani-tika/8. Vattakkhandhako.xml" title="8. Vattakkhandhako"/>
+  <tree src="Vimativinodani-tika/9. Patimokkhatthapanakkhandhako.xml" title="9. Pātimokkhaṭṭhapanakkhandhako"/>
+  <tree src="Vimativinodani-tika/10. Bhikkhunikkhandhako.xml" title="10. Bhikkhunikkhandhako"/>
+  <tree src="Vimativinodani-tika/11. Pancasatikakkhandhako.xml" title="11. Pañcasatikakkhandhako"/>
+  <tree src="Vimativinodani-tika/12. Sattasatikakkhandhako.xml" title="12. Sattasatikakkhandhako"/>
+  <tree src="Vimativinodani-tika/Parivaravannana.xml" title="Parivāravaṇṇanā"/>
+  <tree src="Vimativinodani-tika/Pannattivaravannana.xml" title="Paññattivāravaṇṇanā"/>
+  <tree src="Vimativinodani-tika/Samutthanasisavannana.xml" title="Samuṭṭhānasīsavaṇṇanā"/>
+  <tree src="Vimativinodani-tika/Antarapeyyalam.xml" title="Antarapeyyālaṃ"/>
+  <tree src="Vimativinodani-tika/Samathabhedam.xml" title="Samathabhedaṃ"/>
+  <tree src="Vimativinodani-tika/Khandhakapucchavaro.xml" title="Khandhakapucchāvāro"/>
+  <tree src="Vimativinodani-tika/Ekuttarikanayam.xml" title="Ekuttarikanayaṃ"/>
+  <tree src="Vimativinodani-tika/Uposathadipucchavissajjanavannana.xml" title="Uposathādipucchāvissajjanāvaṇṇanā"/>
+  <tree src="Vimativinodani-tika/Pathamagathasanganikam.xml" title="Paṭhamagāthāsaṅgaṇikaṃ"/>
+  <tree src="Vimativinodani-tika/Adhikaranabhedam.xml" title="Adhikaraṇabhedaṃ"/>
+  <tree src="Vimativinodani-tika/Codanakandam.xml" title="Codanākaṇḍaṃ"/>
+  <tree src="Vimativinodani-tika/Culasangamam.xml" title="Cūḷasaṅgāmaṃ"/>
+  <tree src="Vimativinodani-tika/Mahasangamam.xml" title="Mahāsaṅgāmaṃ"/>
+  <tree src="Vimativinodani-tika/Kathinabhedam.xml" title="Kathinabhedaṃ"/>
+  <tree src="Vimativinodani-tika/Upalipancakam.xml" title="Upālipañcakaṃ"/>
+  <tree src="Vimativinodani-tika/Aparadutiyagathasanganikam.xml" title="Aparadutiyagāthāsaṅgaṇikaṃ"/>
+  <tree src="Vimativinodani-tika/Sedamocanagatha.xml" title="Sedamocanagāthā"/>
+  <tree src="Vimativinodani-tika/Pancavaggo.xml" title="Pañcavaggo"/>
+</tree>

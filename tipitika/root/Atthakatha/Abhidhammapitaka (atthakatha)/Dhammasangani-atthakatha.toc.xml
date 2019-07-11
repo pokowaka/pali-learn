@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Dhammasaṅgaṇi-aṭṭhakathā">
+  <tree src="Dhammasangani-atthakatha/Gantharambhakatha.xml" title="Ganthārambhakathā"/>
+  <tree src="Dhammasangani-atthakatha/1. Cittuppadakando.xml" title="1. Cittuppādakaṇḍo"/>
+  <tree src="Dhammasangani-atthakatha/Tikamatikapadavannana.xml" title="Tikamātikāpadavaṇṇanā"/>
+  <tree src="Dhammasangani-atthakatha/Dukamatikapadavannana.xml" title="Dukamātikāpadavaṇṇanā"/>
+  <tree src="Dhammasangani-atthakatha/Kamavacarakusalapadabhajaniyam.xml" title="Kāmāvacarakusalapadabhājanīyaṃ"/>
+  <tree src="Dhammasangani-atthakatha/2. Rupakando.xml" title="2. Rūpakaṇḍo"/>
+  <tree src="Dhammasangani-atthakatha/3. Nikkhepakando.xml" title="3. Nikkhepakaṇḍo"/>
+  <tree src="Dhammasangani-atthakatha/4. Atthakathakando.xml" title="4. Aṭṭhakathākaṇḍo"/>
+</tree>

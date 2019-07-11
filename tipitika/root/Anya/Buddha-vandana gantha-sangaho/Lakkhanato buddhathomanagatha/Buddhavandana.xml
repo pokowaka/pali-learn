@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree text="Buddhavandan&#x101;" target="text">
+  <text>
+    <hangnum nr="1"/>
+    <gatha type="1"> Devalokā cavitvāna ,</gatha>
+    <gatha type="2">Mahāmāyāya kucchiyaṃ;</gatha>
+    <gatha type="3">Uppajji guruvāramhi,</gatha>
+    <gatha type="last">Vandetaṃ sakyapuṅgavaṃ.</gatha>
+    <hangnum nr="2"/>
+    <gatha type="1"> Dasamā saccaye neso ,</gatha>
+    <gatha type="2">Vijāyi mātukucchito;</gatha>
+    <gatha type="3">Sukkavāre lumbiniyaṃ,</gatha>
+    <gatha type="last">Vande taṃ lokapūjitaṃ.</gatha>
+    <hangnum nr="3"/>
+    <gatha type="1"> Cakkavattisiriṃ hitvā,</gatha>
+    <gatha type="2">Mahāsinikkhamaṃ sudhī;</gatha>
+    <gatha type="3">Nikkhamī candavāramhi,</gatha>
+    <gatha type="last">Name taṃ munikuñjaraṃ.</gatha>
+    <hangnum nr="4"/>
+    <gatha type="1"> Assatthabodhimūlamhi ,</gatha>
+    <gatha type="2">Pallaṅke aparājite;</gatha>
+    <gatha type="3">Patto sabbaññutaṃ nātho,</gatha>
+    <gatha type="last">Name taṃ budhavāsare.</gatha>
+    <hangnum nr="5"/>
+    <gatha type="1"> Pañcavaggiyamukhānaṃ ,</gatha>
+    <gatha type="2">Devānaṃ migadāvane;</gatha>
+    <gatha type="3">Sorivāre dhammacakkaṃ,</gatha>
+    <gatha type="last">Vattesi taṃ jinaṃ name.</gatha>
+    <hangnum nr="6"/>
+    <gatha type="1"> Sabbasaṅkhatadhammānaṃ,</gatha>
+    <gatha type="2">Pakāsiyaaniccataṃ;</gatha>
+    <gatha type="3">Nibbutaṃaṅgavāramhi,</gatha>
+    <gatha type="last">Namādhiamatandadaṃ.</gatha>
+    <hangnum nr="7"/>
+    <gatha type="1"> Sūriyavāre soṇṇāya ,</gatha>
+    <gatha type="2">Doṇiyā jinaviggaho;</gatha>
+    <gatha type="3">Agginujjalito tassa,</gatha>
+    <gatha type="last">Name dhātusarīrakaṃ.</gatha>
+  </text>
+</tree>

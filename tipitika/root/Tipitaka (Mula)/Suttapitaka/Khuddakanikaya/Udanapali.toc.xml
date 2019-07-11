@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Udānapāḷi">
+  <tree src="Udanapali/1. Bodhivaggo.xml" title="1. Bodhivaggo"/>
+  <tree src="Udanapali/2. Mucalindavaggo.xml" title="2. Mucalindavaggo"/>
+  <tree src="Udanapali/3. Nandavaggo.xml" title="3. Nandavaggo"/>
+  <tree src="Udanapali/4. Meghiyavaggo.xml" title="4. Meghiyavaggo"/>
+  <tree src="Udanapali/5. Sonavaggo .xml" title="5. Soṇavaggo "/>
+  <tree src="Udanapali/6. Jaccandhavaggo.xml" title="6. Jaccandhavaggo"/>
+  <tree src="Udanapali/7. Culavaggo.xml" title="7. Cūḷavaggo"/>
+  <tree src="Udanapali/8. Pataligamiyavaggo.xml" title="8. Pāṭaligāmiyavaggo"/>
+</tree>

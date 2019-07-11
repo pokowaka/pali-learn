@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tree title="Theragāthāpāḷi">
+  <tree src="Theragathapali/1. Ekakanipato.xml" title="1. Ekakanipāto"/>
+  <tree src="Theragathapali/2. Dukanipato.xml" title="2. Dukanipāto"/>
+  <tree src="Theragathapali/3. Tikanipato.xml" title="3. Tikanipāto"/>
+  <tree src="Theragathapali/4. Catukanipato.xml" title="4. Catukanipāto"/>
+  <tree src="Theragathapali/5. Pancakanipato.xml" title="5. Pañcakanipāto"/>
+  <tree src="Theragathapali/6. Chakkanipato.xml" title="6. Chakkanipāto"/>
+  <tree src="Theragathapali/7. Sattakanipato.xml" title="7. Sattakanipāto"/>
+  <tree src="Theragathapali/8. Atthakanipato.xml" title="8. Aṭṭhakanipāto"/>
+  <tree src="Theragathapali/9. Navakanipato.xml" title="9. Navakanipāto"/>
+  <tree src="Theragathapali/10. Dasakanipato.xml" title="10. Dasakanipāto"/>
+  <tree src="Theragathapali/11. Ekadasanipato.xml" title="11. Ekādasanipāto"/>
+  <tree src="Theragathapali/12. Dvadasakanipato.xml" title="12. Dvādasakanipāto"/>
+  <tree src="Theragathapali/13. Terasanipato.xml" title="13. Terasanipāto"/>
+  <tree src="Theragathapali/14. Cuddasakanipato.xml" title="14. Cuddasakanipāto"/>
+  <tree src="Theragathapali/15. Solasakanipato.xml" title="15. Soḷasakanipāto"/>
+  <tree src="Theragathapali/16. Visatinipato.xml" title="16. Vīsatinipāto"/>
+  <tree src="Theragathapali/17. Timsanipato.xml" title="17. Tiṃsanipāto"/>
+  <tree src="Theragathapali/18. Cattalisanipato.xml" title="18. Cattālīsanipāto"/>
+  <tree src="Theragathapali/19. Pannasanipato.xml" title="19. Paññāsanipāto"/>
+  <tree src="Theragathapali/20. Satthinipato.xml" title="20. Saṭṭhinipāto"/>
+  <tree src="Theragathapali/21. Mahanipato.xml" title="21. Mahānipāto"/>
+</tree>

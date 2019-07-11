@@ -7,6 +7,7 @@ import os
 import sys
 import palipedia.transform.xml as xml
 import palipedia.transform.sutta as sutta
+from unidecode import unidecode
 
 
 FLAGS = flags.FLAGS
@@ -56,9 +57,10 @@ def open_and_replace(fname):
 
 def write_out(tree):
     if sutta.is_toc(tree):
-        dirname = tree.get('text', 'root')
+        title = tree.get('text', 'root')
         logging.info('processing %s - %s', tree, tree.attrib)
-        toc = etree.Element('tree', {'title': dirname})
+        toc = etree.Element('tree', {'title': title})
+        dirname = unidecode(title)
         with InDirectory(dirname, True):
             for child in tree.getchildren():
                 if child.tag is etree.Comment:
@@ -66,13 +68,13 @@ def write_out(tree):
                 name, fn = write_out(child)
                 etree.SubElement(
                     toc, 'tree', {'title': name, 'src': os.path.join(dirname, fn)})
-        xml_file = dirname + '.toc.xml'
+        xml_file = unidecode(dirname + '.toc.xml')
         logging.info('Writing %s', xml_file)
         xml.write_xml(xml_file, toc)
-        return (dirname, xml_file)
+        return (title, xml_file)
     else:
         name = tree.attrib['text']
-        xml_file = name + '.xml'
+        xml_file = unidecode(name + '.xml')
 
         logging.info('Writing %s', xml_file)
         xml.write_xml(xml_file, tree)
