@@ -1,7 +1,6 @@
-'''Contains functions to manipulate XML. Used to transform the source :
+'''Contains functions to manipulate XML. Used to transform the source data'''
 from lxml import etree
 import itertools
-import re
 
 
 def pairwise(iterable):
@@ -11,16 +10,16 @@ def pairwise(iterable):
     return zip(a, b)
 
 
-def merge(n1, n2):
+def merge(n1, n2, text_sep=''):
     '''Merge two elements with the same tag together
 
        Note, the attributes will not be merged.
     '''
     if n1.tag == n2.tag:
         if len(n1) > 0:
-            n1[-1:][0].tail += n2.text
+            n1[-1:][0].tail += text_sep + n2.text
         else:
-            n1.text += n2.text
+            n1.text += text_sep + n2.text
         if len(n2) > 0:
             for kid in n2.getchildren():
                 n1.append(kid)
@@ -49,15 +48,22 @@ def text_to_attr(tree, tag, attr):
     text_to_attr(<a>hello</a>, 'a', 'txt') => <a txt='hello'/>
     '''
     for node in tree.xpath('//' + tag):
-        if len(node) > 0: raise "Has kids!"
+        if len(node) > 0:
+            raise "Has kids!"
         node.attrib[attr] = node.text
         node.text = None
 
+def remove(tree, tags):
+    '''Removes all the given tags.'''
+    query = '//' + '|//'.join(tags)
+    for node in tree.xpath(query):
+        node.getparent().remove(node)
 
 def rename(tree, tag, new_tag):
     '''Rename a tag.'''
     for node in tree.xpath('//' + tag):
         node.tag = new_tag
+
 
 def lift_up(tree, tag):
     '''Lifts the contents of the tag to the parent.
@@ -88,19 +94,3 @@ def combine_siblings(tree, tag):
         if nxt is node.getprevious():
             merge(nxt, node)
             node.getparent().remove(node)
-
-
-# Sutta specific transformers.
-def normalize_chapter(tree):
-    '''<chapter> --> <chapter nr='xx' title='yy'>'''
-    for node in tree.xpath('//chapter'):
-        if len(node) > 0: raise "Has kids!"
-        m = re.search('(.*)\.(.*)', node.text)
-        if not m:
-            node.attrib['title'] = node.text
-            node.text = None
-        else:
-            node.attrib['nr'] = m.group(1).strip()
-            node.attrib['title'] = m.group(2).strip()
-            node.text = None
-
