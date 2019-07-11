@@ -17,6 +17,8 @@ flags.DEFINE_string('src/tipitika/romn/tipitaka_toc.xml',
                     'data', 'Path to source data xml.')
 flags.DEFINE_boolean('merge', False, 'Merge all data into single xml file.')
 flags.DEFINE_boolean('split', False, 'Split out books/nikaya')
+flags.DEFINE_string('query', '/tree/tree/tree',
+                    'Query used to split out subparts.')
 
 
 def convert_book(fn):
@@ -24,18 +26,15 @@ def convert_book(fn):
     with open(fn, 'r') as f:
         tree = etree.parse(f, parser)
         root = tree.getroot()
-        xml.text_to_attr(root, 'book', 'title')
-        xml.text_to_attr(root, 'nikaya', 'title')
-        sutta.normalize_chapter(root)
         sutta.merge_verses(root)
-        xml.neighbor_to_child(root, ['nikaya'])
-        xml.neighbor_to_child(root, ['book'])
         xml.neighbor_to_child(root, ['chapter'])
         str = etree.tostring(tree, encoding='utf-8',
                              xml_declaration=True, pretty_print=True)
         print(str.decode('utf-8'))
 
-parser = etree.XMLParser(remove_blank_text=True)
+
+parser = etree.XMLParser(remove_blank_text=True, encoding='utf-8')
+
 
 def open_and_replace(fname):
     '''Process a toc file and replaces the tree with actual contents.'''
@@ -55,25 +54,54 @@ def open_and_replace(fname):
             return tree.getroot()
 
 
+def write_out(tree):
+    if sutta.is_toc(tree):
+        dirname = tree.get('text', 'root')
+        logging.info('processing %s - %s', tree, tree.attrib)
+        toc = etree.Element('tree', {'title': dirname})
+        with InDirectory(dirname, True):
+            for child in tree.getchildren():
+                if child.tag is etree.Comment:
+                    continue
+                name, fn = write_out(child)
+                etree.SubElement(
+                    toc, 'tree', {'title': name, 'src': os.path.join(dirname, fn)})
+        xml_file = dirname + '.toc.xml'
+        logging.info('Writing %s', xml_file)
+        xml.write_xml(xml_file, toc)
+        return (dirname, xml_file)
+    else:
+        name = tree.attrib['text']
+        xml_file = name + '.xml'
+
+        logging.info('Writing %s', xml_file)
+        xml.write_xml(xml_file, tree)
+        return (name, xml_file)
+
+
 def clean_and_split(fname):
     '''Cleans up the massive xml from the previous step, and splits it into books..'''
     with open(fname, 'rb') as f:
-        tree = etree.parse(f, parser)
-        xml.remove(tree, ['book', 'nikaya'])
-        tree.getroot()
-
-
-
-
+        logging.info('parsing %s', fname)
+        tree = etree.parse(f, parser).getroot()
+        logging.info('removing unneeded tags')
+        # These are implied in the tree structure and are confusing things..
+        xml.remove(tree, ['book', 'nikaya', 'chapter'])
+        # Remove empty parent/child
+        xml.remove_empty(tree, ['tree'])
+        with InDirectory(FLAGS.out, True):
+            write_out(tree)
 
 def main(argv):
-  del argv  # Unused.
-  if FLAGS.merge:
-      with open(FLAGS.out, 'wb') as res:
-        tree = etree.ElementTree(open_and_replace(FLAGS.src))
-        tree.write(res, encoding='utf-8',
-                  xml_declaration=True, pretty_print=True)
+    del argv  # Unused.
+    if FLAGS.merge:
+        with open(FLAGS.out, 'wb') as res:
+            tree = etree.ElementTree(open_and_replace(FLAGS.src))
+            tree.write(res, encoding='utf-8',
+                       xml_declaration=True, pretty_print=True)
+    if FLAGS.split:
+        clean_and_split(FLAGS.src)
 
 
 if __name__ == '__main__':
-  app.run(main)
+    app.run(main)

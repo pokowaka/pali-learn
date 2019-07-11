@@ -1,12 +1,13 @@
 import os
 
-
 # A class that is responsible for configuring the server when running the build.
 class InDirectory(object):
 
-    def __init__(self, dir):
-        self.dir = dir
+    def __init__(self, nm, create=False):
+        self.dir = nm
         self.old = None
+        if create and not os.path.exists(self.dir):
+            os.makedirs(self.dir)
 
 
     def __enter__(self):

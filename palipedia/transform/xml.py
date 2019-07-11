@@ -1,7 +1,7 @@
 '''Contains functions to manipulate XML. Used to transform the source data'''
 from lxml import etree
 import itertools
-
+from absl import logging
 
 def pairwise(iterable):
     '''s -> (s0,s1), (s1,s2), (s2, s3), ...'''
@@ -53,11 +53,40 @@ def text_to_attr(tree, tag, attr):
         node.attrib[attr] = node.text
         node.text = None
 
+
 def remove(tree, tags):
     '''Removes all the given tags.'''
     query = '//' + '|//'.join(tags)
     for node in tree.xpath(query):
         node.getparent().remove(node)
+
+
+def write_xml(xml_file, tree):
+    logging.info("Writing %s", xml_file)
+    with open(xml_file, 'wb') as res:
+        root = etree.ElementTree(tree)
+        root.write(res, encoding='utf-8',
+                   xml_declaration=True, pretty_print=True)
+
+
+def remove_empty(tree, tags):
+    '''Removes all the emty children.
+       <a x='f'><a><b/></a></a> =>
+       <a x='f'><b/></a>
+    '''
+    query = '//' + '|//'.join(tags)
+    for node in tree.xpath(query):
+        parent = node.getparent()
+        if parent == None or not hasattr(parent, 'tag'):
+            continue
+        if (len(node.attrib) == 0 and parent.tag == node.tag):
+            insert_at = parent.index(node)
+            to_insert = list(node)
+            to_insert.reverse()
+            for child in to_insert:
+                parent.insert(insert_at, child)
+            parent.remove(node)
+
 
 def rename(tree, tag, new_tag):
     '''Rename a tag.'''
