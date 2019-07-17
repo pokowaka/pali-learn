@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Mahārahanīti">
-  <tree src="Maharahaniti/Panditakatha.xml" title="Paṇḍitakathā"/>
-  <tree src="Maharahaniti/Sambhedakatha.xml" title="Sambhedakathā"/>
-  <tree src="Maharahaniti/Mittakatha.xml" title="Mittakathā"/>
-  <tree src="Maharahaniti/Nayakakatha.xml" title="Nāyakakathā"/>
-  <tree src="Maharahaniti/Itthikatha.xml" title="Itthikathā"/>
-</tree>

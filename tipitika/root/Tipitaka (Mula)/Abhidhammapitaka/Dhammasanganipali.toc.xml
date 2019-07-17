@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Dhammasaṅgaṇīpāḷi">
-  <tree src="Dhammasanganipali/Matika.xml" title="Mātikā"/>
-  <tree src="Dhammasanganipali/1. Cittuppadakandam.xml" title="1. Cittuppādakaṇḍaṃ"/>
-  <tree src="Dhammasanganipali/2. Rupakandam.xml" title="2. Rūpakaṇḍaṃ"/>
-  <tree src="Dhammasanganipali/3. Nikkhepakandam.xml" title="3. Nikkhepakaṇḍaṃ"/>
-  <tree src="Dhammasanganipali/4. Atthakathakandam.xml" title="4. Aṭṭhakathākaṇḍaṃ"/>
-</tree>

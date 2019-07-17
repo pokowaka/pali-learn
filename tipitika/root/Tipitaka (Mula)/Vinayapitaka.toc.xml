@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Vinayapiṭaka">
-  <tree src="Vinayapitaka/Parajikapali.toc.xml" title="Pārājikapāḷi"/>
-  <tree src="Vinayapitaka/Pacittiyapali.toc.xml" title="Pācittiyapāḷi"/>
-  <tree src="Vinayapitaka/Mahavaggapali.toc.xml" title="Mahāvaggapāḷi"/>
-  <tree src="Vinayapitaka/Culavaggapali.toc.xml" title="Cūḷavaggapāḷi"/>
-  <tree src="Vinayapitaka/Parivarapali.toc.xml" title="Parivārapāḷi"/>
-</tree>

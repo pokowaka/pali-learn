@@ -1,13 +1,60 @@
 '''Contains functions to manipulate XML. Used to transform the source data'''
-from lxml import etree
 import itertools
+import os
+
 from absl import logging
+from lxml import etree
+from unidecode import unidecode
+
+DEFAULT_PARSER = etree.XMLParser(remove_blank_text=True)
+XI = 'http://www.w3.org/2001/XInclude'
+
 
 def pairwise(iterable):
     '''s -> (s0,s1), (s1,s2), (s2, s3), ...'''
     a, b = itertools.tee(iterable)
     next(b, None)
     return zip(a, b)
+
+
+def parse(fname, parser=DEFAULT_PARSER):
+    logging.info('parsing %s', fname)
+    with open(fname, 'rb') as f:
+        return etree.parse(f, parser).getroot()
+
+
+def xstr(s):
+    if s is None:
+        return ''
+    return str(s)
+
+
+def depth(tree):
+    if tree is None:
+        return 0
+    return 1 + depth(tree.getparent())
+
+
+def getroot(tree):
+    if tree.getparent() is None:
+        return tree
+    return getroot(tree.getparent())
+
+
+def append_external(node, child, fname, outdir):
+    name = unidecode(fname)
+    final_dest = os.path.join(outdir, name)
+    os.makedirs(os.path.dirname(final_dest), exist_ok=True)
+    etree.SubElement(node, '{' + XI + '}include', {'href': name})
+    write_xml(final_dest, child)
+
+
+def trim_text(tree):
+    for node in tree.iter('*'):
+        if node.text:
+            node.text = node.text.strip()
+        if node.tail:
+            node.tail = node.tail.strip()
 
 
 def merge(n1, n2, text_sep=''):
@@ -17,9 +64,9 @@ def merge(n1, n2, text_sep=''):
     '''
     if n1.tag == n2.tag:
         if len(n1) > 0:
-            n1[-1:][0].tail += text_sep + n2.text
+            n1[-1:][0].tail = xstr(n1[-1:][0].tail) + text_sep + xstr(n2.text)
         else:
-            n1.text += text_sep + n2.text
+            n1.text = xstr(n1.text) + text_sep + xstr(n2.text)
         if len(n2) > 0:
             for kid in n2.getchildren():
                 n1.append(kid)
@@ -42,6 +89,12 @@ def neighbor_to_child(tree, tags):
             nxt = tmp
 
 
+def path(elem):
+    if elem is None:
+        return ""
+    return path(elem.getparent()) + "-" + elem.tag
+
+
 def text_to_attr(tree, tag, attr):
     '''Lift the text and set it as an attribute.
 
@@ -52,6 +105,11 @@ def text_to_attr(tree, tag, attr):
             raise "Has kids!"
         node.attrib[attr] = node.text
         node.text = None
+
+
+def remove_query(tree, query):
+    for node in tree.xpath(query):
+        node.getparent().remove(node)
 
 
 def remove(tree, tags):
@@ -67,6 +125,17 @@ def write_xml(xml_file, tree):
         root = etree.ElementTree(tree)
         root.write(res, encoding='utf-8',
                    xml_declaration=True, pretty_print=True)
+
+
+def siblings_to_child(tree, tag):
+    for node in tree.xpath("//" + tag):
+        # Make every sibling a child
+        nxt = node.getnext()
+        while nxt is not None and nxt.tag != tag:
+            following = nxt.getnext()
+            nxt.getparent().remove(nxt)
+            node.append(nxt)
+            nxt = following
 
 
 def remove_empty(tree, tags):

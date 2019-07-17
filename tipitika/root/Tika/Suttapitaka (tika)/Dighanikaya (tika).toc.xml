@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Dīghanikāya (ṭīkā)">
-  <tree src="Dighanikaya (tika)/Silakkhandhavagga-tika.toc.xml" title="Sīlakkhandhavagga-ṭīkā"/>
-  <tree src="Dighanikaya (tika)/Mahavagga-tika.toc.xml" title="Mahāvagga-ṭīkā"/>
-  <tree src="Dighanikaya (tika)/Pathikavagga-tika.toc.xml" title="Pāthikavagga-ṭīkā"/>
-  <tree src="Dighanikaya (tika)/Silakkhandhavagga-abhinavatika-1.toc.xml" title="Sīlakkhandhavagga-abhinavaṭīkā-1"/>
-  <tree src="Dighanikaya (tika)/Silakkhandhavagga-abhinavatika-2.toc.xml" title="Sīlakkhandhavagga-abhinavaṭīkā-2"/>
-</tree>

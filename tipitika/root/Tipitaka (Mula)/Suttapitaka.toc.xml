@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Suttapiṭaka">
-  <tree src="Suttapitaka/Dighanikaya.toc.xml" title="Dīghanikāya"/>
-  <tree src="Suttapitaka/Majjhimanikaya.toc.xml" title="Majjhimanikāya"/>
-  <tree src="Suttapitaka/Samyuttanikaya.toc.xml" title="Saṃyuttanikāya"/>
-  <tree src="Suttapitaka/Anguttaranikaya.toc.xml" title="Aṅguttaranikāya"/>
-  <tree src="Suttapitaka/Khuddakanikaya.toc.xml" title="Khuddakanikāya"/>
-</tree>

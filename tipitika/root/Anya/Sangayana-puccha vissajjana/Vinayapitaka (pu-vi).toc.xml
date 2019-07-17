@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Vinayapiṭaka (pu-vi)">
-  <tree src="Vinayapitaka (pu-vi)/Vinayapitaka.xml" title="Vinayapiṭaka"/>
-  <tree src="Vinayapitaka (pu-vi)/Sanghadisesa sikkhapuccha.xml" title="Saṅghādisesa sikkhāpucchā"/>
-  <tree src="Vinayapitaka (pu-vi)/Nissaggipacittiya.xml" title="Nissaggipācittiya"/>
-  <tree src="Vinayapitaka (pu-vi)/Mahavaggapali.xml" title="Mahāvaggapāḷi"/>
-  <tree src="Vinayapitaka (pu-vi)/Culavaggapali.xml" title="Cūḷavaggapāḷi"/>
-</tree>

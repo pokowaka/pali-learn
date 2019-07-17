@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Suttapiṭaka (ṭīkā)">
-  <tree src="Suttapitaka (tika)/Dighanikaya (tika).toc.xml" title="Dīghanikāya (ṭīkā)"/>
-  <tree src="Suttapitaka (tika)/Majjhimanikaya (tika).toc.xml" title="Majjhimanikāya (ṭīkā)"/>
-  <tree src="Suttapitaka (tika)/Samyuttanikaya (tika).toc.xml" title="Saṃyuttanikāya (ṭīkā)"/>
-  <tree src="Suttapitaka (tika)/Anguttaranikaya (tika).toc.xml" title="Aṅguttaranikāya (ṭīkā)"/>
-  <tree src="Suttapitaka (tika)/Khuddakanikaya (tika).toc.xml" title="Khuddakanikāya (ṭīkā)"/>
-</tree>

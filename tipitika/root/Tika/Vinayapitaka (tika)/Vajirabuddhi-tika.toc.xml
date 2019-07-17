@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Vajirabuddhi-ṭīkā">
-  <tree src="Vajirabuddhi-tika/Gantharambhakatha.xml" title="Ganthārambhakathā"/>
-  <tree src="Vajirabuddhi-tika/Parajikavannana.xml" title="Pārājikavaṇṇanā"/>
-  <tree src="Vajirabuddhi-tika/Pacittiyavannana.xml" title="Pācittiyavaṇṇanā"/>
-  <tree src="Vajirabuddhi-tika/Mahavaggavannana.xml" title="Mahāvaggavaṇṇanā"/>
-  <tree src="Vajirabuddhi-tika/Culavaggavannana.xml" title="Cūḷavaggavaṇṇanā"/>
-  <tree src="Vajirabuddhi-tika/Parivaravannana.xml" title="Parivāravaṇṇanā"/>
-</tree>

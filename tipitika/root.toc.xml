@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="root">
-  <tree src="root/Tipitaka (Mula).toc.xml" title="Tipiṭaka (Mūla)"/>
-  <tree src="root/Atthakatha.toc.xml" title="Aṭṭhakathā"/>
-  <tree src="root/Tika.toc.xml" title="Tīkā"/>
-  <tree src="root/Anya.toc.xml" title="Anya"/>
-</tree>

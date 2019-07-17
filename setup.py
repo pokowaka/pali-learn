@@ -145,7 +145,7 @@ setup(
     #
     # For an analysis of "install_requires" vs pip's requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['absl-py', 'lxml', 'unidecode'],  # Optional
+    install_requires=['absl-py', 'lxml', 'unidecode', 'importlib_resources'],  # Optional
 
     # List additional groups of dependencies here (e.g. development
     # dependencies). Users will be able to install these using the "extras"
@@ -166,7 +166,7 @@ setup(
     # If using Python 2.6 or earlier, then these have to be included in
     # MANIFEST.in as well.
     package_data={  # Optional
-        # 'sample': ['package_data.dat'],
+         'cleanup.xsl': ['data/cleanup.xsl'],
     },
 
     # Although 'package_data' is the preferred approach, in some case you may

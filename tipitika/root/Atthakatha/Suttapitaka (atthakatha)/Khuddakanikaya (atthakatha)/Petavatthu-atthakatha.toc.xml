@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Petavatthu-aṭṭhakathā">
-  <tree src="Petavatthu-atthakatha/Gantharambhakatha.xml" title="Ganthārambhakathā"/>
-  <tree src="Petavatthu-atthakatha/1. Uragavaggo.xml" title="1. Uragavaggo"/>
-  <tree src="Petavatthu-atthakatha/2. Ubbarivaggo.xml" title="2. Ubbarivaggo"/>
-  <tree src="Petavatthu-atthakatha/3. Culavaggo.xml" title="3. Cūḷavaggo"/>
-  <tree src="Petavatthu-atthakatha/4. Mahavaggo.xml" title="4. Mahāvaggo"/>
-</tree>

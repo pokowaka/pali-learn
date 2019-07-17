@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Pārājikapāḷi">
-  <tree src="Parajikapali/Veranjakandam.xml" title="Verañjakaṇḍaṃ"/>
-  <tree src="Parajikapali/1. Parajikakandam.xml" title="1. Pārājikakaṇḍaṃ"/>
-  <tree src="Parajikapali/2. Sanghadisesakandam.xml" title="2. Saṅghādisesakaṇḍaṃ"/>
-  <tree src="Parajikapali/3. Aniyatakandam.xml" title="3. Aniyatakaṇḍaṃ"/>
-  <tree src="Parajikapali/4. Nissaggiyakandam.xml" title="4. Nissaggiyakaṇḍaṃ"/>
-</tree>

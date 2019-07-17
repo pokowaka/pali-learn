@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tree title="Nettippakaraṇapāḷi">
-  <tree src="Nettippakaranapali/1. Sangahavaro.xml" title="1. Saṅgahavāro"/>
-  <tree src="Nettippakaranapali/2. Uddesavaro.xml" title="2. Uddesavāro"/>
-  <tree src="Nettippakaranapali/3. Niddesavaro.xml" title="3. Niddesavāro"/>
-  <tree src="Nettippakaranapali/4. Patiniddesavaro.xml" title="4. Paṭiniddesavāro"/>
-  <tree src="Nettippakaranapali/Nayasamutthanam.xml" title="Nayasamuṭṭhānaṃ"/>
-  <tree src="Nettippakaranapali/Sasanapatthanam.xml" title="Sāsanapaṭṭhānaṃ"/>
-</tree>
