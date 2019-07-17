@@ -1,0 +1,3 @@
+[submodule "pali/data"]
+	path = pali/data
+	url = https://github.com/siongui/data.git
